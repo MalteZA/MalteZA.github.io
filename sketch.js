@@ -14,7 +14,7 @@ function draw() {
   background(0, 255, 255);
 
   fill(255);
-  ellipse(i + 40, j + 40, 80, 80);
+  ellipse(i + 40, j + 40, 85, 85);
 
   fill(0);
   textSize(26);
