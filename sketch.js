@@ -1,7 +1,7 @@
 let i       = 0;
 let j       = 0;
-let  iUp    = {bool: true};
-let  jUp    = {bool: true};
+let iUp     = {bool: true};
+let jUp     = {bool: true};
 let cHeight = 600;
 let cWidth  = 800;
 let s       = "Hello!"
@@ -11,14 +11,14 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(0, 255, 255);
 
   fill(255);
   ellipse(i + 40, j + 40, 80, 80);
 
   fill(0);
   textSize(26);
-  text(s, i + 2, j + 35, i + 60, j - 30);
+  text(s, i + 2, j + 35, i + 60, j);
 
   i = incrementer(i, iUp, cWidth);
   j = incrementer(j, jUp, cHeight);
