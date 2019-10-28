@@ -4,7 +4,7 @@ let iUp     = {bool: true};
 let jUp     = {bool: true};
 let cHeight = 600;
 let cWidth  = 800;
-let s       = "Hello!"
+let s       = "Wow! Such art!"
 
 function setup() {
   createCanvas(cWidth, cHeight);
