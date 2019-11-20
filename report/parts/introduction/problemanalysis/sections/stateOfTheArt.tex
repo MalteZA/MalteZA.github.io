@@ -97,7 +97,8 @@ For detecting objects, there are several possibilities for doing so.
 In this method, the detection of traffic lights, signs to road crossings, moving vehicles, etc., will be detected and analyzed.
 All state of the art practices for image object detection methods all rely on a deep convolutional neural network (DCNN).
 An example of this is \textit{You Only Look Once}, which is a real time object detection system \cite{objectDetection_yolo:_02-10}.
-There is a distinction between the two methods in image-based object detection, as described in \cite{yurtsever_survey_2019}. These two methods are:
+There is a distinction between the two methods in image-based object detection, as described in \cite{yurtsever_survey_2019}.
+These two methods are:
 
 \begin{itemize}
     \item \textit{Single stage detection frameworks}, which uses a single network to detect objects and make class predictions simultaneously.
@@ -111,10 +112,12 @@ The single stage detection frameworks use low memory and have a fast inference t
 %segmentation
 Another method in perception is \textit{semantic segmentation}.
 Semantic segmentation is an algorithm, which classify each pixel in a picture with a label.
-The reason for doing this is because of some objects, are hard to properly define using bounding boxes \footnote{ A bounding box is a rectangular box, which is used as a description to where an object is positioned inside a frame with x and y coordinates. \cite{d2l_12.3._10.10}}.
+The reason for doing this is because of some objects, are hard to properly define using bounding boxes\footnote{A bounding box is a rectangular box, which is used as a description to where an object is positioned inside a frame with x and y coordinates \cite{d2l_12-3-_10-10}.}.
 Examples of these objects are roads and buildings.
 
-\textit{Instance segmentation} is the classification of each pixel in a picture, but will also differentiate between objects based on their trajectories and behaviors. When using \textit{Instance segmentation} the classification would be able to see overlapping objects and bound box them \cite{mittal_instance_2019}. This means that the bound boxes would overlap each other, depending on the variation of overlapping from the object.
+\textit{Instance segmentation} is the classification of each pixel in a picture, but will also differentiate between objects based on their trajectories and behaviors.
+When using \textit{Instance segmentation} the classification would be able to see overlapping objects and bound box them \cite{mittal_instance_2019}.
+This means that the bound boxes would overlap each other, depending on the variation of overlapping from the object.
 
 %3D object detection
 When creating an AV it is important that the vehicle has depth perception, in order for it to see objects further ahead and avoid a possible collision.

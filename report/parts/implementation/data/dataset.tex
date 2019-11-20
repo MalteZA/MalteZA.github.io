@@ -1,9 +1,18 @@
 \subsection{Dataset}\label{ssec:impl-data-dataset}
-As mentioned in \autoref{ch:design}, the data should be obtained by manually driving the ev3 and gathering images of the lane in front of the ev3 as well as the steering angle at that point in time. In order to increase variance in the data, it was decided to gather data from \textcolor{red}{three (may change)} different lane designs. This introduces several different curvatures, which is useful to train the model to handle a larger variety of situations. The process was time consuming and therefore the data collection was divided into steps, one for each lane design. 
+As mentioned in \autoref{ch:design}, the data should be obtained by manually driving the ev3 and gathering images of the lane in front of the ev3 as well as the steering angle at that point in time.
+In order to increase variance in the data, it was decided to gather data from \textcolor{red}{three (may change)} different lane designs.
+This introduces several different curvatures, which is useful to train the model to handle a larger variety of situations.
+The process was time consuming and therefore the data collection was divided into steps, one for each lane design.
 
-The images have dimensions 320x240 with three channels (RGB) and are .png files, sampled with a framerate of 3 fps. In order to decide on a framerate, the speed was taken into account as well as not getting too similar images. A higher vehicle speed, which was held constant, would require the sampled framerate to be higher and vice versa. Since the data was gathered with a relatively low constant speed of the vehicle, 3 fps seemed an appropriate sample rate.
+The images have dimensions 320x240 with three channels (RGB) and are .png files, sampled with a framerate of 3 fps.
+In order to decide on a framerate, the speed was taken into account as well as not getting too similar images.
+A higher vehicle speed, which was held constant, would require the sampled framerate to be higher and vice versa.
+Since the data was gathered with a relatively low constant speed of the vehicle, 3 fps seemed an appropriate sample rate.
 
-The steering angles are integer values between -60 and 60. This range is due to the limitation of the rotation angles for the wheels in the vehicle design. \todo{Check om denne sætning er korrekt} A steering angle of 0 corresponds to driving straight, while negative and possitive values corresponds to steering left and right, respectively. When driving manually, to obtain the training data, keystrokes from the PC will change the steering angle by a fixed amount of +/- 3. 
+The steering angles are integer values between -60 and 60.
+This range is due to the limitation of the rotation angles for the wheels in the vehicle design.
+\todo{Check om denne sætning er korrekt} A steering angle of 0 corresponds to driving straight, while negative and possitive values corresponds to steering left and right, respectively.
+When driving manually, to obtain the training data, keystrokes from the PC will change the steering angle by a fixed amount of +/- 3.
 
 The images are labeled with the corresponding steering angle and by a combination of the training start time as well as the image number, in order to uniquely identify the images and relate them to a specific training session.
-\todo{Tilføj mere om dataset, evt. se An End-to-End Deep Neural Network for Autonomous Driving Designed for Embedded Automotive Platforms article for inspiration}
+\todo{Tilføj mere om dataset, evt se An End-to-End Deep Neural Network for Autonomous Driving Designed for Embedded Automotive Platforms article for inspiration}
