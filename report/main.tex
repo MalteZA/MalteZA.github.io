@@ -1,0 +1,44 @@
+\input{config/preamb}
+\input{config/config}
+
+\begin{document}
+
+\begin{titlingpage}
+  \include{titlepage}
+  \input{titelblad.tex}
+\end{titlingpage}
+
+\input{preface.tex}
+\input{resume.tex}
+\listoffigures
+\newpage
+\listoftables
+\newpage
+\tableofcontents
+\listoftodos
+\newpage
+
+% Report content goes here vvv
+\input{parts/introduction/introductionPT.tex}
+
+\input{parts/techAnalysis/techAnalysisCtrl.tex}
+
+\input{parts/design/designCH.tex}
+
+\input{parts/implementation/implementationCH.tex}
+
+
+% Report content goes here ^^^
+
+\begingroup
+	\raggedright
+	%\bibliographystyle{bibtex/harvard}
+  \printbibliography
+\endgroup
+\cleardoublepage
+
+\part{ - Appendix -}\label{PART:Appendix}
+\begin{appendices}
+
+\end{appendices}
+\end{document}

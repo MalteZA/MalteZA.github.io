@@ -1,0 +1,33 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Accident factors for investigated accidents\cite {danmark_why_accidents_happen_2014}\relax }}{11}{figure.caption.8}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Overview of a general AV system \cite {pendleton_perception_2017}\relax }}{16}{figure.caption.9}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Traxxas TRX-4 Chassis Kit\relax }}{25}{figure.caption.14}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces NVIDIA Jetson Nano Developer Kit\relax }}{26}{figure.caption.15}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Logitech C922 Pro Stream\relax }}{26}{figure.caption.16}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces LEGO MINDSTORMS EV3 brick \cite {BrickOWl-figure-EV3}\relax }}{30}{figure.caption.18}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces LEGO MINDSTORMS NXT 2.0 brick \cite {BrickOWl-figure-NXT2}\relax }}{30}{figure.caption.20}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Raspberry Pi 4B \cite {RaspberryPI-figure-Pi4b}\relax }}{31}{figure.caption.22}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Arduino Uno Rev3 \cite {Arduino-figure-UNO}\relax }}{32}{figure.caption.24}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Arduino Mega 2560 Rev3 \cite {Arduino-figure-MEGA}\relax }}{32}{figure.caption.25}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces LEGO MINDSTORMS EV3 large servomotor \cite {BrickOWl-figure-EV3-largeServo}\relax }}{33}{figure.caption.28}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces LEGO MINDSTORMS EV3 medium servomotor \cite {BrickOWl-figure-EV3-mediumServo}\relax }}{33}{figure.caption.30}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces LEGO MINDSTORMS NXT 2.0 servomotor \cite {BrickOWl-figure-NXT2-Servo}\relax }}{34}{figure.caption.32}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces LEGO Technic Mini-Motor 9v \cite {BrickOWl-figure-Technic-MiniMotor9v}\relax }}{34}{figure.caption.34}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces LEGO Technic Motor 9v \cite {BrickOWl-figure-Technic-Motor9v}\relax }}{35}{figure.caption.36}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Logitech C910 camera \cite {Logitech-figure-C910}\relax }}{35}{figure.caption.38}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces The setup for testing the medium motor\relax }}{37}{figure.caption.43}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Results from the precision test for the medium motor\relax }}{38}{figure.caption.44}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Overall architecture of the autonomous driving system. SA is short for steering angle.\relax }}{42}{figure.caption.49}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Pictures of the finished vehicle taken from different angles\relax }}{44}{figure.caption.50}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Picture from the front of the vehicle}}}{44}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Picture from the side of the vehicle}}}{44}{subfigure.2.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Diagram of the network architecture\relax }}{46}{figure.caption.51}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Diagram of the neural network architecture of PilotNet \cite {bojarski_end--end-nvidea_2016}\relax }}{47}{figure.caption.52}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces One figure or several subfigures of the different lanes\relax }}{50}{figure.caption.56}

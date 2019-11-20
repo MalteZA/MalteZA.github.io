@@ -1,0 +1,21 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[0] Config.pm:305> INFO - Logfile is 'main.blg'
+[23] biber:313> INFO - === Wed Nov 20, 2019, 13:35:37
+[41] Biber.pm:371> INFO - Reading 'main.bcf'
+[93] Biber.pm:857> INFO - Found 93 citekeys in bib section 0
+[104] Biber.pm:3981> INFO - Processing section 0
+[112] Biber.pm:4154> INFO - Looking for bibtex format file 'bibtex/litteratur.bib' for section 0
+[119] bibtex.pm:1468> INFO - LaTeX decoding ...
+[209] bibtex.pm:1294> INFO - Found BibTeX data source 'bibtex/litteratur.bib'
+[210] Utils.pm:169> WARN - Duplicate entry key: 'raspberry_pi_foundation_raspberry_nodate' in file 'bibtex/litteratur.bib', skipping ...
+[442] Utils.pm:169> WARN - ISBN '9781430224532 9781430224549' in entry 'gasperi_extreme_2009' is invalid - run biber with '--validate_datamodel' for details.
+[515] Utils.pm:169> WARN - BibTeX subsystem: /tmp/aOL03QlPXH/litteratur.bib_8362.utf8, line 151, warning: 76 characters of junk seen at toplevel
+[516] Utils.pm:169> WARN - BibTeX subsystem: /tmp/aOL03QlPXH/litteratur.bib_8362.utf8, line 821, warning: 11 characters of junk seen at toplevel
+[516] Utils.pm:169> WARN - BibTeX subsystem: /tmp/aOL03QlPXH/litteratur.bib_8362.utf8, line 955, warning: 7 characters of junk seen at toplevel
+[560] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[560] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[560] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de_DE'
+[560] Biber.pm:3815> INFO - No sort tailoring available for locale 'de_DE'
+[606] bbl.pm:617> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[633] bbl.pm:720> INFO - Output to main.bbl
+[634] Biber.pm:110> INFO - WARNINGS: 5

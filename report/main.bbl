@@ -1,0 +1,3135 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{self_autonomous_cars_finally_here}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Self-driving cars are finally here, and how they are deployed will change how we get around forever. From Tesla to Google to Uber to all the major automakers, we bring you complete coverage of the race to develop fully autonomous vehicles. This includes helpful explanations about the technology and policies that underpin the movement to build driverless cars.}
+      \field{title}{Autonomous {Cars}}
+      \field{urlday}{26}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.theverge.com/autonomous-cars
+      \endverb
+      \verb{url}
+      \verb https://www.theverge.com/autonomous-cars
+      \endverb
+    \endentry
+    \entry{driverless_Cars_Are_Hot_topic}{misc}{}
+      \list{language}{1}{%
+        {en-ZA}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Driverless cars are a hot topic in the motoring world at the moment. Everyone’s talking about them; manufacturers, politicians and transport chiefs are all nattering on about the future of autonomous vehicles. But what are they, and what do they mean for the future of motoring? We’re going to try and clear things up.}
+      \field{journaltitle}{MSN}
+      \field{shorttitle}{Driverless cars}
+      \field{title}{Driverless cars: {Explained}}
+      \field{urlday}{26}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://a.msn.com/08/en-za/BBTqQ8j
+      \endverb
+      \verb{url}
+      \verb http://a.msn.com/08/en-za/BBTqQ8j
+      \endverb
+    \endentry
+    \entry{Autonomous_future_}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The autonomous vehicle is set to be as life-changing as the invention of the motor vehicle itself. Modern day cities have been shaped largely by the mobility that is achieved through motor vehicles, providing transport services to people and goods alike and supported by major road networks worldwide. Up until recently, the motor vehicle has been an extension of the human ambulatory system, docile to the drivers’ commands.}
+      \field{journaltitle}{Future Proof}
+      \field{title}{The {Future} of {Autonomous} {Vehicles}}
+      \field{urlday}{26}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.futuresplatform.com/blog/future-autonomous-vehicles
+      \endverb
+      \verb{url}
+      \verb https://www.futuresplatform.com/blog/future-autonomous-vehicles
+      \endverb
+    \endentry
+    \entry{digitalTrends_milestonesSelfdriving_2019}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{abstract}{From a 1920s stunt in downtown New York to Google's Waymo, here are the events you should know about from the history of self-driving cars.}
+      \field{journaltitle}{Digital Trends}
+      \field{month}{2}
+      \field{title}{10 {Major} {Milestones} in the {History} of {Self}-{Driving} {Cars}}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/
+      \endverb
+      \verb{url}
+      \verb https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/
+      \endverb
+    \endentry
+    \entry{wallace_roadFollowing_1986}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=44d124d32ca005bafb2bacd31c83f258}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=be932134b4b979afcba1f5ae0e4c57e0}{%
+           family={Matsuzaki},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fda7d7c7b4905dbb4f4c7ea5570e6025}{%
+           family={Goto},
+           familyi={G\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3a9629ad93629c28b761134e16d24600}{%
+           family={Crisman},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bc7cb05a8a647ae4d0087232007b2dca}{%
+           family={Webb},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b110fd814608eb16537c34080e758c4d}{%
+           family={Kanade},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA, USA}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{14bbbfa07744269cff6d0c23f9a4735d}
+      \strng{fullhash}{2091756543ebbce837942f2b6ca6ff49}
+      \strng{bibnamehash}{2091756543ebbce837942f2b6ca6ff49}
+      \strng{authorbibnamehash}{2091756543ebbce837942f2b6ca6ff49}
+      \strng{authornamehash}{14bbbfa07744269cff6d0c23f9a4735d}
+      \strng{authorfullhash}{2091756543ebbce837942f2b6ca6ff49}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings. 1986 {IEEE} {International} {Conference} on {Robotics} and {Automation}}
+      \field{title}{Progress in robot road-following}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{3}
+      \field{year}{1986}
+      \field{urldateera}{ce}
+      \field{pages}{1615\bibrangedash 1621}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ROBOT.1986.1087503
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/1087503/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/1087503/
+      \endverb
+    \endentry
+    \entry{waymo_homepage}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Waymo—formerly the Google self-driving car project—stands for a new way forward in mobility. Our mission is to make it safe and easy for people and things to move around.}
+      \field{journaltitle}{Waymo}
+      \field{title}{Waymo}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://waymo.com/
+      \endverb
+      \verb{url}
+      \verb https://waymo.com/
+      \endverb
+    \endentry
+    \entry{waymo_drivenTenBillionMiles}{misc}{}
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Alphabet’s Waymo autonomous driving company announced a new milestone at TechCrunch Sessions: Mobility on Wednesday: 10 billion miles driving in simulation. This is a significant achievement for the company, because all those simulated miles on the road for its self-driving software add up to…}
+      \field{journaltitle}{TechCrunch}
+      \field{title}{Waymo has now driven 10 billion autonomous miles in simulation}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://social.techcrunch.com/2019/07/10/waymo-has-now-driven-10-billion-autonomous-miles-in-simulation/
+      \endverb
+      \verb{url}
+      \verb http://social.techcrunch.com/2019/07/10/waymo-has-now-driven-10-billion-autonomous-miles-in-simulation/
+      \endverb
+    \endentry
+    \entry{boudette_elon_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2b47bd336781e20f6f0042d1e2fe32ea}{%
+           family={Boudette},
+           familyi={B\bibinitperiod},
+           given={Neal\bibnamedelima E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{2b47bd336781e20f6f0042d1e2fe32ea}
+      \strng{fullhash}{2b47bd336781e20f6f0042d1e2fe32ea}
+      \strng{bibnamehash}{2b47bd336781e20f6f0042d1e2fe32ea}
+      \strng{authorbibnamehash}{2b47bd336781e20f6f0042d1e2fe32ea}
+      \strng{authornamehash}{2b47bd336781e20f6f0042d1e2fe32ea}
+      \strng{authorfullhash}{2b47bd336781e20f6f0042d1e2fe32ea}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mr. Musk said Tesla cars would soon drive themselves and serve as robot taxis. But many experts think autonomous cars are at least several years away.}
+      \field{chapter}{Business}
+      \field{issn}{0362-4331}
+      \field{journaltitle}{The New York Times}
+      \field{month}{4}
+      \field{title}{Elon {Musk} {Predicts} {Tesla} {Driverless} {Taxi} {Fleet} {Next} {Year}}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2019/04/22/business/elon-musk-tesla-autopilot.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2019/04/22/business/elon-musk-tesla-autopilot.html
+      \endverb
+      \keyw{Tesla Motors Inc,Musk,Elon,Driverless and Semiautonomous Vehicles,Traffic Accidents and Safety,Electric and Hybrid Vehicles,Company Reports,Stocks and Bonds,Taxicabs and Taxicab Drivers}
+    \endentry
+    \entry{annual_accident_report_2018}{report}{}
+      \name{author}{3}{}{%
+        {{hash=6c5fe6fc447f16dbbbf649b662416e13}{%
+           family={{National Technical University of Athens}},
+           familyi={N\bibinitperiod}}}%
+        {{hash=c669377f2c37dde54dc3dddf25f1135c}{%
+           family={{Austrian Road Safety Board}},
+           familyi={A\bibinitperiod}}}%
+        {{hash=b186a1a9f61dfd1c9e4fc1109d099052}{%
+           family={{European Union Road Federation}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{31f9f4b6e81e4b650fe2becd33f6f3cc}
+      \strng{fullhash}{31f9f4b6e81e4b650fe2becd33f6f3cc}
+      \strng{bibnamehash}{31f9f4b6e81e4b650fe2becd33f6f3cc}
+      \strng{authorbibnamehash}{31f9f4b6e81e4b650fe2becd33f6f3cc}
+      \strng{authornamehash}{31f9f4b6e81e4b650fe2becd33f6f3cc}
+      \strng{authorfullhash}{31f9f4b6e81e4b650fe2becd33f6f3cc}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Annual {Accident} {Report} 2018}
+      \field{type}{techreport}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ec.europa.eu/transport/road_safety/sites/roadsafety/files/pdf/statistics/dacota/asr2018.pdf
+      \endverb
+      \verb{url}
+      \verb https://ec.europa.eu/transport/road_safety/sites/roadsafety/files/pdf/statistics/dacota/asr2018.pdf
+      \endverb
+    \endentry
+    \entry{thomas_identifying_2013}{article}{}
+      \name{author}{4}{}{%
+        {{hash=de4af6d696ee55a7a372e48a98ca66e3}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Pete},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4b336e2c116e06ba217eec84ba95a21c}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3990a86be1a59f1cf2116b49a3771ef1}{%
+           family={Talbot},
+           familyi={T\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f0e1ce7b152154508a2e3ba2ddd223a5}{%
+           family={Fagerlind},
+           familyi={F\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{4cac082e18bfee702c5eee49b928bc5c}
+      \strng{fullhash}{e2609a88b56e7c8115f81d2706fbf25b}
+      \strng{bibnamehash}{e2609a88b56e7c8115f81d2706fbf25b}
+      \strng{authorbibnamehash}{e2609a88b56e7c8115f81d2706fbf25b}
+      \strng{authornamehash}{4cac082e18bfee702c5eee49b928bc5c}
+      \strng{authorfullhash}{e2609a88b56e7c8115f81d2706fbf25b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This research applies a recently developed model of accident causation, developed to investigate industrial accidents, to a specially gathered sample of 997 crashes investigated in-depth in 6 countries. Based on the work of Hollnagel the model considers a collision to be a consequence of a breakdown in the interaction between road users, vehicles and the organisation of the traffic environment. 54\% of road users experienced interpretation errors while 44\% made observation errors and 37\% planning errors. In contrast to other studies only 11\% of drivers were identified as distracted and 8\% inattentive. There was remarkably little variation in these errors between the main road user types. The application of the model to future in-depth crash studies offers the opportunity to identify new measures to improve safety and to mitigate the social impact of collisions. Examples given include the potential value of co-driver advisory technologies to reduce observation errors and predictive technologies to avoid conflicting interactions between road users.}
+      \field{issn}{1943-2461}
+      \field{journaltitle}{Annals of Advances in Automotive Medicine. Association for the Advancement of Automotive Medicine. Annual Scientific Conference}
+      \field{title}{Identifying the causes of road crashes in {Europe}}
+      \field{volume}{57}
+      \field{year}{2013}
+      \field{pages}{13\bibrangedash 22}
+      \range{pages}{10}
+    \endentry
+    \entry{statista_roadAccidents_2019}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This statistic shows the percentage distribution of contributing factors leading to road accidents in Great Britain (UK) in 2017.}
+      \field{journaltitle}{Statista}
+      \field{title}{Contributing factors leading to road accidents in {Great} {Britain} 2017}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.statista.com/statistics/323079/contributing-factors-leading-to-road-accidents-in-great-britain-uk/
+      \endverb
+      \verb{url}
+      \verb https://www.statista.com/statistics/323079/contributing-factors-leading-to-road-accidents-in-great-britain-uk/
+      \endverb
+    \endentry
+    \entry{bull_urban_2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=470bd08e7e14490bfd733ba3054c8af8}{%
+           family={Bull},
+           familyi={B\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=94d5053e2ca246a5e66109c8e924bcfe}{%
+           family={Thomson},
+           familyi={T\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6f629442a4755ec516c96943f1b38952}
+      \strng{fullhash}{6f629442a4755ec516c96943f1b38952}
+      \strng{bibnamehash}{6f629442a4755ec516c96943f1b38952}
+      \strng{authorbibnamehash}{6f629442a4755ec516c96943f1b38952}
+      \strng{authornamehash}{6f629442a4755ec516c96943f1b38952}
+      \strng{authorfullhash}{6f629442a4755ec516c96943f1b38952}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Includes bibliography}
+      \field{month}{4}
+      \field{shorttitle}{Urban traffic congestion}
+      \field{title}{Urban traffic congestion: its economic and social causes and consequences}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://repositorio.cepal.org//handle/11362/10867
+      \endverb
+      \verb{url}
+      \verb https://repositorio.cepal.org//handle/11362/10867
+      \endverb
+    \endentry
+    \entry{bull_traffic_2003}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=470bd08e7e14490bfd733ba3054c8af8}{%
+           family={Bull},
+           familyi={B\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a71d9df00b1454331e31c41a4c22084b}{%
+           family={{United Nations}},
+           familyi={U\bibinitperiod}}}%
+        {{hash=2b7889d20d011e76b4f24af22284af30}{%
+           family={{Deutsche Gesellschaft für Technische Zusammenarbeit}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Santiago, Chile}%
+      }
+      \list{publisher}{2}{%
+        {United Nations, Economic Commission for Latin America}%
+        {the Caribbean}%
+      }
+      \strng{namehash}{cf2fda218d1ff2e50cadb1be16883d10}
+      \strng{fullhash}{cf2fda218d1ff2e50cadb1be16883d10}
+      \strng{bibnamehash}{cf2fda218d1ff2e50cadb1be16883d10}
+      \strng{editorbibnamehash}{cf2fda218d1ff2e50cadb1be16883d10}
+      \strng{editornamehash}{cf2fda218d1ff2e50cadb1be16883d10}
+      \strng{editorfullhash}{cf2fda218d1ff2e50cadb1be16883d10}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9789211214321}
+      \field{note}{OCLC: ocm55119072}
+      \field{number}{87}
+      \field{series}{Cuadernos de la {CEPAL}}
+      \field{shorttitle}{Traffic congestion}
+      \field{title}{Traffic congestion: the problem and how to deal with it}
+      \field{year}{2003}
+      \keyw{Traffic congestion}
+    \endentry
+    \entry{ukpata_traffic_2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=10cfd86fb209382b35525374d5c8b682}{%
+           family={Ukpata},
+           familyi={U\bibinitperiod},
+           given={Joseph.\bibnamedelimi O.},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=edd2bbbc27bfc8c9cec84a4963da9b4d}{%
+           family={Etika},
+           familyi={E\bibinitperiod},
+           given={Anderson\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{bb6315e55aebac22dfd9f44ffbd6068c}
+      \strng{fullhash}{bb6315e55aebac22dfd9f44ffbd6068c}
+      \strng{bibnamehash}{bb6315e55aebac22dfd9f44ffbd6068c}
+      \strng{authorbibnamehash}{bb6315e55aebac22dfd9f44ffbd6068c}
+      \strng{authornamehash}{bb6315e55aebac22dfd9f44ffbd6068c}
+      \strng{authorfullhash}{bb6315e55aebac22dfd9f44ffbd6068c}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2049-3444}
+      \field{journaltitle}{International Journal of Engineering and Technology}
+      \field{month}{8}
+      \field{number}{No. 8}
+      \field{title}{Traffic {Congestion} in {Major} {Cities} of {Nigeria}}
+      \field{volume}{Volume 2}
+      \field{year}{2012}
+      \field{pages}{1433\bibrangedash 1438}
+      \range{pages}{6}
+    \endentry
+    \entry{vi.chilukuri.ctrdot.gov_usdot_2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d6b700a45b48ba342f811bcb5c181d1d}{%
+           family={{vi.chilukuri.ctr@dot.gov}},
+           familyi={v\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d6b700a45b48ba342f811bcb5c181d1d}
+      \strng{fullhash}{d6b700a45b48ba342f811bcb5c181d1d}
+      \strng{bibnamehash}{d6b700a45b48ba342f811bcb5c181d1d}
+      \strng{authorbibnamehash}{d6b700a45b48ba342f811bcb5c181d1d}
+      \strng{authornamehash}{d6b700a45b48ba342f811bcb5c181d1d}
+      \strng{authorfullhash}{d6b700a45b48ba342f811bcb5c181d1d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NHTSA}
+      \field{month}{10}
+      \field{title}{{USDOT} {Releases} 2016 {Fatal} {Traffic} {Crash} {Data}}
+      \field{type}{Text}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nhtsa.gov/press-releases/usdot-releases-2016-fatal-traffic-crash-data
+      \endverb
+      \verb{url}
+      \verb https://www.nhtsa.gov/press-releases/usdot-releases-2016-fatal-traffic-crash-data
+      \endverb
+    \endentry
+    \entry{khan_road_2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5e076ae1029a752028a75efebd53c6bc}{%
+           family={KHAN},
+           familyi={K\bibinitperiod},
+           given={Imran},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5e076ae1029a752028a75efebd53c6bc}
+      \strng{fullhash}{5e076ae1029a752028a75efebd53c6bc}
+      \strng{bibnamehash}{5e076ae1029a752028a75efebd53c6bc}
+      \strng{authorbibnamehash}{5e076ae1029a752028a75efebd53c6bc}
+      \strng{authornamehash}{5e076ae1029a752028a75efebd53c6bc}
+      \strng{authorfullhash}{5e076ae1029a752028a75efebd53c6bc}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Road Safety Facts \& Figures}
+      \field{journaltitle}{Mobility and transport - European Commission}
+      \field{month}{5}
+      \field{title}{Road {Safety} {Facts} \& {Figures}}
+      \field{type}{Text}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ec.europa.eu/transport/road_safety/road-safety-facts-figures-0_en
+      \endverb
+      \verb{url}
+      \verb https://ec.europa.eu/transport/road_safety/road-safety-facts-figures-0_en
+      \endverb
+    \endentry
+    \entry{danmark_why_accidents_happen_2014}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9c0b146a424847e9e18b992ddf8091c0}{%
+           family={{Danmark}},
+           familyi={D\bibinitperiod}}}%
+        {{hash=491c44e4685206ce89e3492e3d63ce2c}{%
+           family={{Havarikommissionen for Vejtrafikulykker}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Danish Road Traffic Accident Investigation Board}%
+      }
+      \strng{namehash}{bdf6f7c05187ff3a1190b1f8cf10f505}
+      \strng{fullhash}{bdf6f7c05187ff3a1190b1f8cf10f505}
+      \strng{bibnamehash}{bdf6f7c05187ff3a1190b1f8cf10f505}
+      \strng{authorbibnamehash}{bdf6f7c05187ff3a1190b1f8cf10f505}
+      \strng{authornamehash}{bdf6f7c05187ff3a1190b1f8cf10f505}
+      \strng{authorfullhash}{bdf6f7c05187ff3a1190b1f8cf10f505}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-87-91458-36-1}
+      \field{note}{OCLC: 904518592}
+      \field{title}{Why do road traffic accidents happen?}
+      \field{year}{2014}
+    \endentry
+    \entry{lanctot_accelerating_2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=292648851600f08339f7740e4b6102df}{%
+           family={Lanctot},
+           familyi={L\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{292648851600f08339f7740e4b6102df}
+      \strng{fullhash}{292648851600f08339f7740e4b6102df}
+      \strng{bibnamehash}{292648851600f08339f7740e4b6102df}
+      \strng{authorbibnamehash}{292648851600f08339f7740e4b6102df}
+      \strng{authornamehash}{292648851600f08339f7740e4b6102df}
+      \strng{authorfullhash}{292648851600f08339f7740e4b6102df}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Autonomous Vehicle Research and Analysis from Strategy Analytics.}
+      \field{month}{6}
+      \field{title}{Accelerating the {Future}: {The} {Economic} {Impact} of the {Emerging} {Passenger} {Economy}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.strategyanalytics.com/access-services/automotive/autonomous-vehicles/reports/report-detail/accelerating-the-future-the-economic-impact-of-the-emerging-passenger-economy?slid=923371&spg=1
+      \endverb
+      \verb{url}
+      \verb https://www.strategyanalytics.com/access-services/automotive/autonomous-vehicles/reports/report-detail/accelerating-the-future-the-economic-impact-of-the-emerging-passenger-economy?slid=923371&spg=1
+      \endverb
+    \endentry
+    \entry{tesla_technology}{misc}{}
+      \list{language}{1}{%
+        {da-DK}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Teknologien er begyndt at bane vejen for en førerløs fremtid. Her er en række eksempler.}
+      \field{journaltitle}{DR}
+      \field{shorttitle}{3 eller 30 år}
+      \field{title}{3 eller 30 år: {Hvornår} kommer selvkørende biler på vejene?}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.dr.dk/nyheder/viden/tech/3-eller-30-aar-hvornaar-kommer-selvkoerende-biler-paa-vejene
+      \endverb
+      \verb{url}
+      \verb https://www.dr.dk/nyheder/viden/tech/3-eller-30-aar-hvornaar-kommer-selvkoerende-biler-paa-vejene
+      \endverb
+    \endentry
+    \entry{matthew.lynberg.ctrdot.gov_automated_2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=13dcb532b87138c1052b1b298f1deda5}{%
+           family={{matthew.lynberg.ctr@dot.gov}},
+           familyi={m\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{13dcb532b87138c1052b1b298f1deda5}
+      \strng{fullhash}{13dcb532b87138c1052b1b298f1deda5}
+      \strng{bibnamehash}{13dcb532b87138c1052b1b298f1deda5}
+      \strng{authorbibnamehash}{13dcb532b87138c1052b1b298f1deda5}
+      \strng{authornamehash}{13dcb532b87138c1052b1b298f1deda5}
+      \strng{authorfullhash}{13dcb532b87138c1052b1b298f1deda5}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The continuing evolution of automotive technology aims to deliver even greater safety benefits and Automated Driving Systems (ADS) that — one day — can handle the whole task of driving when we don’t want to or can’t do it ourselves. Fully automated cars and trucks that drive us, instead of us driving them, will become a reality. These self-driving vehicles ultimately will integrate onto U.S. roadways by progressing through six levels of driver assistance technology advancements in the coming years.}
+      \field{journaltitle}{NHTSA}
+      \field{month}{9}
+      \field{title}{Automated {Vehicles} for {Safety}}
+      \field{type}{Text}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nhtsa.gov/technology-innovation/automated-vehicles-safety
+      \endverb
+      \verb{url}
+      \verb https://www.nhtsa.gov/technology-innovation/automated-vehicles-safety
+      \endverb
+    \endentry
+    \entry{6_levels_with_examples}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a246cb3f09a45824a3f142cf655c7519}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a246cb3f09a45824a3f142cf655c7519}
+      \strng{fullhash}{a246cb3f09a45824a3f142cf655c7519}
+      \strng{bibnamehash}{a246cb3f09a45824a3f142cf655c7519}
+      \strng{authorbibnamehash}{a246cb3f09a45824a3f142cf655c7519}
+      \strng{authornamehash}{a246cb3f09a45824a3f142cf655c7519}
+      \strng{authorfullhash}{a246cb3f09a45824a3f142cf655c7519}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{SAE has defined six levels of autonomy for self-driving, here’s what they mean.}
+      \field{journaltitle}{TheJournal.ie}
+      \field{title}{The 6 levels of self-driving car - and what they mean for motorists}
+      \field{urlday}{7}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.thejournal.ie/self-driving-cars-autonomy-levels-3603253-Sep2017/
+      \endverb
+      \verb{url}
+      \verb https://www.thejournal.ie/self-driving-cars-autonomy-levels-3603253-Sep2017/
+      \endverb
+    \endentry
+    \entry{noauthor_waymo_driverless}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Waymo—formerly the Google self-driving car project—stands for a new way forward in mobility. Our mission is to make it safe and easy for people and things to move around.}
+      \field{journaltitle}{Waymo}
+      \field{title}{Waymo}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://waymo.com/
+      \endverb
+      \verb{url}
+      \verb https://waymo.com/
+      \endverb
+    \endentry
+    \entry{daily_self-driving_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=abe4667675a3470a98da53866a57953a}{%
+           family={Daily},
+           familyi={D\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3e07e74c989335f810449f580f82d27b}{%
+           family={Medasani},
+           familyi={M\bibinitperiod},
+           given={Swarup},
+           giveni={S\bibinitperiod}}}%
+        {{hash=667cc1bc270075e55773772a50bae022}{%
+           family={Behringer},
+           familyi={B\bibinitperiod},
+           given={Reinhold},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b5e9f19c22362ecf244886e71e3356db}{%
+           family={Trivedi},
+           familyi={T\bibinitperiod},
+           given={Mohan},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8db711389bc4c7bf4f1cb3519d83147}
+      \strng{fullhash}{a05c2fe7412686c5c27a150333598fe1}
+      \strng{bibnamehash}{a05c2fe7412686c5c27a150333598fe1}
+      \strng{authorbibnamehash}{a05c2fe7412686c5c27a150333598fe1}
+      \strng{authornamehash}{b8db711389bc4c7bf4f1cb3519d83147}
+      \strng{authorfullhash}{a05c2fe7412686c5c27a150333598fe1}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0018-9162}
+      \field{journaltitle}{Computer}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{Self-{Driving} {Cars}}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{50}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{18\bibrangedash 23}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/MC.2017.4451204
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/8220479/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/8220479/
+      \endverb
+    \endentry
+    \entry{liu_infrastructure-review_2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3bcd698ebb71d780a9f0db275cecfd51}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yuyan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=70eccfa3a69cb10aec5a2a3abc9784a6}{%
+           family={Tight},
+           familyi={T\bibinitperiod},
+           given={Miles},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2a873cec43d13954ea514ff390610016}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Quanxin},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=aec91225635d26871f251bdfca1b549c}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Ruiyu},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6996d9e0207dfd7f33c885aba34f2e6}
+      \strng{fullhash}{5d13c151b0faf095caf5a6ef1af90214}
+      \strng{bibnamehash}{5d13c151b0faf095caf5a6ef1af90214}
+      \strng{authorbibnamehash}{5d13c151b0faf095caf5a6ef1af90214}
+      \strng{authornamehash}{b6996d9e0207dfd7f33c885aba34f2e6}
+      \strng{authorfullhash}{5d13c151b0faf095caf5a6ef1af90214}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1742-6588, 1742-6596}
+      \field{journaltitle}{Journal of Physics: Conference Series}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shorttitle}{A systematic review}
+      \field{title}{A systematic review: {Road} infrastructure requirement for {Connected} and {Autonomous} {Vehicles} ({CAVs})}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{1187}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{042073}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1742-6596/1187/4/042073
+      \endverb
+      \verb{urlraw}
+      \verb https://iopscience.iop.org/article/10.1088/1742-6596/1187/4/042073
+      \endverb
+      \verb{url}
+      \verb https://iopscience.iop.org/article/10.1088/1742-6596/1187/4/042073
+      \endverb
+    \endentry
+    \entry{faulhaber_human_2019}{article}{}
+      \name{author}{9}{}{%
+        {{hash=c0084941c908e30d11e49568369cc178}{%
+           family={Faulhaber},
+           familyi={F\bibinitperiod},
+           given={Anja\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b1bf02fd93615875b6b13425b9403f16}{%
+           family={Dittmer},
+           familyi={D\bibinitperiod},
+           given={Anke},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5bf29d2eca49ce8738d423cf5c9000ca}{%
+           family={Blind},
+           familyi={B\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=15621589a5db09592546298ec8bc5af8}{%
+           family={Wächter},
+           familyi={W\bibinitperiod},
+           given={Maximilian\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a96b1f3a08f083bda365aabf637e86ac}{%
+           family={Timm},
+           familyi={T\bibinitperiod},
+           given={Silja},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2800ba8270543dffcd17910bc3ff8c0e}{%
+           family={Sütfeld},
+           familyi={S\bibinitperiod},
+           given={Leon\bibnamedelima R.},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=345c029d3a1210f6a686359ab3e4274a}{%
+           family={Stephan},
+           familyi={S\bibinitperiod},
+           given={Achim},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fc589f8d0d85e42c9326684c4e155520}{%
+           family={Pipa},
+           familyi={P\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1d36e0a6f9881988be2a17e18cffdfa7}{%
+           family={König},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{38618daf2b8f30ad2a6c89bba92b4885}
+      \strng{fullhash}{dc475eaa91a5529b3bb21c029c398692}
+      \strng{bibnamehash}{dc475eaa91a5529b3bb21c029c398692}
+      \strng{authorbibnamehash}{dc475eaa91a5529b3bb21c029c398692}
+      \strng{authornamehash}{38618daf2b8f30ad2a6c89bba92b4885}
+      \strng{authorfullhash}{dc475eaa91a5529b3bb21c029c398692}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Ethical thought experiments such as the trolley dilemma have been investigated extensively in the past, showing that humans act in utilitarian ways, trying to cause as little overall damage as possible. These trolley dilemmas have gained renewed attention over the past few years, especially due to the necessity of implementing moral decisions in autonomous driving vehicles (ADVs). We conducted a set of experiments in which participants experienced modified trolley dilemmas as drivers in virtual reality environments. Participants had to make decisions between driving in one of two lanes where different obstacles came into view. Eventually, the participants had to decide which of the objects they would crash into. Obstacles included a variety of human-like avatars of different ages and group sizes. Furthermore, the influence of sidewalks as potential safe harbors and a condition implicating self-sacrifice were tested. Results showed that participants, in general, decided in a utilitarian manner, sparing the highest number of avatars possible with a limited influence by the other variables. Derived from these findings, which are in line with the utilitarian approach in moral decision making, it will be argued for an obligatory ethics setting implemented in ADVs.}
+      \field{issn}{1471-5546}
+      \field{journaltitle}{Science and Engineering Ethics}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{Human {Decisions} in {Moral} {Dilemmas} are {Largely} {Described} by {Utilitarianism}}
+      \field{title}{Human {Decisions} in {Moral} {Dilemmas} are {Largely} {Described} by {Utilitarianism}: {Virtual} {Car} {Driving} {Study} {Provides} {Guidelines} for {Autonomous} {Driving} {Vehicles}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{399\bibrangedash 418}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1007/s11948-018-0020-x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11948-018-0020-x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11948-018-0020-x
+      \endverb
+      \keyw{Autonomous driving,Utilitarianism,Trolley problem,Moral dilemma }
+    \endentry
+    \entry{surden_technological_2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9d4c6cd402ca894f6bce67715c56adfb}{%
+           family={Surden},
+           familyi={S\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod}}}%
+        {{hash=718412727362b14660ad3ff796a02a19}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Mary-Anne},
+           giveni={M\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f96da26a105534857b937a1b95bfe43c}
+      \strng{fullhash}{f96da26a105534857b937a1b95bfe43c}
+      \strng{bibnamehash}{f96da26a105534857b937a1b95bfe43c}
+      \strng{authorbibnamehash}{f96da26a105534857b937a1b95bfe43c}
+      \strng{authornamehash}{f96da26a105534857b937a1b95bfe43c}
+      \strng{authorfullhash}{f96da26a105534857b937a1b95bfe43c}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1556-5068}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{title}{Technological {Opacity}, {Predictability}, and {Self}-{Driving} {Cars}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.2139/ssrn.2747491
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ssrn.com/abstract=2747491
+      \endverb
+      \verb{url}
+      \verb https://www.ssrn.com/abstract=2747491
+      \endverb
+    \endentry
+    \entry{fagnant_preparing_2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=37053bad78b5febed344b53db58735eb}{%
+           family={Fagnant},
+           familyi={F\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6e4f2d2e0b0d8f149e3e81a4795c9313}{%
+           family={Kockelman},
+           familyi={K\bibinitperiod},
+           given={Kara},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b86624da6b16db1e314406222b53537}
+      \strng{fullhash}{1b86624da6b16db1e314406222b53537}
+      \strng{bibnamehash}{1b86624da6b16db1e314406222b53537}
+      \strng{authorbibnamehash}{1b86624da6b16db1e314406222b53537}
+      \strng{authornamehash}{1b86624da6b16db1e314406222b53537}
+      \strng{authorfullhash}{1b86624da6b16db1e314406222b53537}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Autonomous vehicles (AVs) represent a potentially disruptive yet beneficial change to our transportation system. This new technology has the potential to impact vehicle safety, congestion, and travel behavior. All told, major social AV impacts in the form of crash savings, travel time reduction, fuel efficiency and parking benefits are estimated to approach \$2000 to per year per AV, and may eventually approach nearly \$4000 when comprehensive crash costs are accounted for. Yet barriers to implementation and mass-market penetration remain. Initial costs will likely be unaffordable. Licensing and testing standards in the U.S. are being developed at the state level, rather than nationally, which may lead to inconsistencies across states. Liability details remain undefined, security concerns linger, and without new privacy standards, a default lack of privacy for personal travel may become the norm. The impacts and interactions with other components of the transportation system, as well as implementation details, remain uncertain. To address these concerns, the federal government should expand research in these areas and create a nationally recognized licensing framework for AVs, determining appropriate standards for liability, security, and data privacy.}
+      \field{issn}{0965-8564}
+      \field{journaltitle}{Transportation Research Part A: Policy and Practice}
+      \field{month}{7}
+      \field{shorttitle}{Preparing a nation for autonomous vehicles}
+      \field{title}{Preparing a nation for autonomous vehicles: opportunities, barriers and policy recommendations}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{77}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{167\bibrangedash 181}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.tra.2015.04.003
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0965856415000804
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0965856415000804
+      \endverb
+      \keyw{Vehicle automation,Autonomous vehicles,Cost-benefit analysis,Safety,Congestion,Market penetration}
+    \endentry
+    \entry{walker_av-regulation-us_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5b2411192038feafd149e833ed718e97}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{5b2411192038feafd149e833ed718e97}
+      \strng{fullhash}{5b2411192038feafd149e833ed718e97}
+      \strng{bibnamehash}{5b2411192038feafd149e833ed718e97}
+      \strng{authorbibnamehash}{5b2411192038feafd149e833ed718e97}
+      \strng{authornamehash}{5b2411192038feafd149e833ed718e97}
+      \strng{authorfullhash}{5b2411192038feafd149e833ed718e97}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Several car makers predict they will able to make true self-driving cars in the next few years - as we've covered in our recent self-driving car timeline}
+      \field{journaltitle}{Emerj}
+      \field{title}{Autonomous {Vehicle} {Regulations} – {Near}-{Term} {Challenges} and {Consequences}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://emerj.com/ai-sector-overviews/autonomous-vehicle-regulations-near-term/
+      \endverb
+      \verb{url}
+      \verb https://emerj.com/ai-sector-overviews/autonomous-vehicle-regulations-near-term/
+      \endverb
+    \endentry
+    \entry{autovista_av-regulation-eu_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6f30a2c5f4dfa48beaddb5aeacb76902}{%
+           family={Group},
+           familyi={G\bibinitperiod},
+           given={Autovista},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{6f30a2c5f4dfa48beaddb5aeacb76902}
+      \strng{fullhash}{6f30a2c5f4dfa48beaddb5aeacb76902}
+      \strng{bibnamehash}{6f30a2c5f4dfa48beaddb5aeacb76902}
+      \strng{authorbibnamehash}{6f30a2c5f4dfa48beaddb5aeacb76902}
+      \strng{authornamehash}{6f30a2c5f4dfa48beaddb5aeacb76902}
+      \strng{authorfullhash}{6f30a2c5f4dfa48beaddb5aeacb76902}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{28 February 2019 Manufacturers and technology companies across Europe are working to prepare autonomous vehicles for public use. Whether this is as part of a model launch or a mobility service, it is not a case of ‘if’ driverless cars will be seen on the roads, but ‘when’.}
+      \field{journaltitle}{Autovista Group}
+      \field{title}{The state of autonomous legislation in {Europe} {|} {Autovista} {Group}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://autovistagroup.com/news-and-insights/state-autonomous-legislation-europe
+      \endverb
+      \verb{url}
+      \verb https://autovistagroup.com/news-and-insights/state-autonomous-legislation-europe
+      \endverb
+    \endentry
+    \entry{hao_three-tech-issues_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a13060af84a66704e1f9c19f6ef0e6bf}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{a13060af84a66704e1f9c19f6ef0e6bf}
+      \strng{fullhash}{a13060af84a66704e1f9c19f6ef0e6bf}
+      \strng{bibnamehash}{a13060af84a66704e1f9c19f6ef0e6bf}
+      \strng{authorbibnamehash}{a13060af84a66704e1f9c19f6ef0e6bf}
+      \strng{authornamehash}{a13060af84a66704e1f9c19f6ef0e6bf}
+      \strng{authorfullhash}{a13060af84a66704e1f9c19f6ef0e6bf}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Technical, regulatory, and business obstacles are still in the way of safe, useful, and affordable self-driving vehicles.}
+      \field{journaltitle}{MIT Technology Review}
+      \field{title}{The three challenges keeping cars from being fully autonomous}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.technologyreview.com/s/613399/the-three-challenges-keeping-cars-from-being-fully-autonomous/
+      \endverb
+      \verb{url}
+      \verb https://www.technologyreview.com/s/613399/the-three-challenges-keeping-cars-from-being-fully-autonomous/
+      \endverb
+    \endentry
+    \entry{aberdeen_tech-issues_2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2198b96e2da6cab55c6e3b5241713a78}{%
+           family={Contributor},
+           familyi={C\bibinitperiod},
+           given={Guest},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{2198b96e2da6cab55c6e3b5241713a78}
+      \strng{fullhash}{2198b96e2da6cab55c6e3b5241713a78}
+      \strng{bibnamehash}{2198b96e2da6cab55c6e3b5241713a78}
+      \strng{authorbibnamehash}{2198b96e2da6cab55c6e3b5241713a78}
+      \strng{authornamehash}{2198b96e2da6cab55c6e3b5241713a78}
+      \strng{authorfullhash}{2198b96e2da6cab55c6e3b5241713a78}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The autonomous car industry is facing several technical as well as legal challenges, including radar interference, driving in extreme weather conditions, and the current lack of necessary laws and regulations.}
+      \field{journaltitle}{Aberdeen}
+      \field{month}{5}
+      \field{title}{Tech and {Legal} {Challenges} the {Autonomous} {Car} {Industry} is {Facing}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.aberdeen.com/techpro-essentials/tech-legal-challenges-autonomous-car-industry-facing/
+      \endverb
+      \verb{url}
+      \verb https://www.aberdeen.com/techpro-essentials/tech-legal-challenges-autonomous-car-industry-facing/
+      \endverb
+    \endentry
+    \entry{martinez-diaz_av-prac-theory-issues_2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=40e516d53e936f925b69c0cf41b024d1}{%
+           family={Martínez-Díaz},
+           familyi={M\bibinithyphendelim D\bibinitperiod},
+           given={Margarita},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a381b377b16abc6a64a502fc9a535f0e}{%
+           family={Soriguera},
+           familyi={S\bibinitperiod},
+           given={Francesc},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5c2ef1ce1c94dc641997b680d0d67e5d}
+      \strng{fullhash}{5c2ef1ce1c94dc641997b680d0d67e5d}
+      \strng{bibnamehash}{5c2ef1ce1c94dc641997b680d0d67e5d}
+      \strng{authorbibnamehash}{5c2ef1ce1c94dc641997b680d0d67e5d}
+      \strng{authornamehash}{5c2ef1ce1c94dc641997b680d0d67e5d}
+      \strng{authorfullhash}{5c2ef1ce1c94dc641997b680d0d67e5d}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{23521465}
+      \field{journaltitle}{Transportation Research Procedia}
+      \field{shorttitle}{Autonomous vehicles}
+      \field{title}{Autonomous vehicles: theoretical and practical challenges}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{33}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{275\bibrangedash 282}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.trpro.2018.10.103
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2352146518302606
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2352146518302606
+      \endverb
+    \endentry
+    \entry{pendleton_perception_2017}{article}{}
+      \name{author}{8}{}{%
+        {{hash=cf6f6b214be4b738ba1067eb28471f70}{%
+           family={Pendleton},
+           familyi={P\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bebb464da46018460aefd789b3140c1d}{%
+           family={Andersen},
+           familyi={A\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+        {{hash=29880622366ebbfd7de29f86eb9c73bd}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Xinxin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=793dfea82e732dc974bf33f90b3a3b28}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Xiaotong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=017c38c8d02eaf393174f99f1f2b7e09}{%
+           family={Meghjani},
+           familyi={M\bibinitperiod},
+           given={Malika},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2c48cf8022cc6c4454cba4867996a9b0}{%
+           family={Eng},
+           familyi={E\bibinitperiod},
+           given={You},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f74192f92945701041a41bfa429ee111}{%
+           family={Rus},
+           familyi={R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b47efac9453bfc57c73144b91f3e7fcb}{%
+           family={Ang},
+           familyi={A\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0f6a51b72fe4df349a24eb2c016a6d0c}
+      \strng{fullhash}{44f51cbbd8fbf9c91fea5b7269a39348}
+      \strng{bibnamehash}{44f51cbbd8fbf9c91fea5b7269a39348}
+      \strng{authorbibnamehash}{44f51cbbd8fbf9c91fea5b7269a39348}
+      \strng{authornamehash}{0f6a51b72fe4df349a24eb2c016a6d0c}
+      \strng{authorfullhash}{44f51cbbd8fbf9c91fea5b7269a39348}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2075-1702}
+      \field{journaltitle}{Machines}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Perception, {Planning}, {Control}, and {Coordination} for {Autonomous} {Vehicles}}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{6}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/machines5010006
+      \endverb
+      \verb{urlraw}
+      \verb http://www.mdpi.com/2075-1702/5/1/6
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/2075-1702/5/1/6
+      \endverb
+    \endentry
+    \entry{university_of_toronto_self-driving_vehicle}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Video created by University of Toronto for the course "Introduction to Self-Driving Cars". System architectures for self-driving vehicles are extremely diverse, as no standardized solution has yet emerged. This module describes both the hardware ...}
+      \field{journaltitle}{Coursera}
+      \field{shorttitle}{Lesson 1}
+      \field{title}{Lesson 1: {Sensors} and {Computing} {Hardware} - {Module} 2: {Self}-{Driving} {Hardware} and {Software} {Architectures}}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.coursera.org/lecture/intro-self-driving-cars/lesson-1-sensors-and-computing-hardware-LrLty
+      \endverb
+      \verb{url}
+      \verb https://www.coursera.org/lecture/intro-self-driving-cars/lesson-1-sensors-and-computing-hardware-LrLty
+      \endverb
+    \endentry
+    \entry{what_is_gnss}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Global Navigation Satellite System (GNSS) refers to a constellation of satellites providing signals from space that transmit positioning and timing data to GNSS receivers. The receivers then use this data to determine location.}
+      \field{month}{3}
+      \field{title}{What is {GNSS}?}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gsa.europa.eu/european-gnss/what-gnss
+      \endverb
+      \verb{url}
+      \verb https://www.gsa.europa.eu/european-gnss/what-gnss
+      \endverb
+    \endentry
+    \entry{charles_pao_imu}{misc}{}
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Weaving in between cars in a game on your phone, keeping a quadcopter drone afloat despite changing winds, vacuuming your house with a robot, and translating your precise movements when wearing a VR headset all}
+      \field{journaltitle}{CEVA’s Experts blog}
+      \field{month}{11}
+      \field{title}{The importance of {IMU} {Motion} {Sensors}}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ceva-dsp.com/ourblog/what-is-an-imu-sensor/
+      \endverb
+      \verb{url}
+      \verb https://www.ceva-dsp.com/ourblog/what-is-an-imu-sensor/
+      \endverb
+    \endentry
+    \entry{zhang_sensor_2012}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=9973f3a3508f01911fe3ad8335fee17b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f2625c4a615f6a9177afb8b545a27006}{%
+           family={Stähle},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=269cebd970e6a5f308aa64d90fe877fe}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a0f8e2b132ad6136a8c138816b9ceddb}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi C.\bibnamedelimi C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d8aed1e6ea6bd3aebebfc3db4dd17057}{%
+           family={Buckl},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=38c5b6e30e9edb25676c0af3d504a1be}{%
+           family={Knoll},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c47c9d9df12758ccb3fb22019c5f116}
+      \strng{fullhash}{29c58afebfb612865ba010e1b666536a}
+      \strng{bibnamehash}{29c58afebfb612865ba010e1b666536a}
+      \strng{authorbibnamehash}{29c58afebfb612865ba010e1b666536a}
+      \strng{authornamehash}{6c47c9d9df12758ccb3fb22019c5f116}
+      \strng{authorfullhash}{29c58afebfb612865ba010e1b666536a}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper describes a robust approach which improves the precision of vehicle localization in complex urban environments by fusing data from GPS, gyroscope and velocity sensors. In this method, we apply Kalman filter to estimate the position of the vehicle. Compared with other fusion based localization approaches, we process the data in a public coordinate system, called Earth Centred Earth Fixed (ECEF) coordinates and eliminate the cumulative error by its statistics characteristics. The contribution is that it not only provides a sensor fusion framework to estimate the position of the vehicle, but also gives a mathematical solution to eliminate the cumulative error stems from the relative pose measurements (provided by the gyroscope and velocity sensors). The experiments exhibit the reliability and the feasibility of our approach in large scale environment.}
+      \field{booktitle}{2012 {IEEE} {International} {Conference} on {Multisensor} {Fusion} and {Integration} for {Intelligent} {Systems} ({MFI})}
+      \field{month}{9}
+      \field{title}{A sensor fusion approach for localization with cumulative error elimination}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/MFI.2012.6343009
+      \endverb
+      \keyw{Global Positioning System,gyroscopes,Kalman filters,position measurement,sensor fusion,velocity measurement,sensor fusion approach,cumulative error elimination,vehicle localization,GPS,gyroscope,velocity sensors,Kalman filter,public coordinate system,Earth centred Earth fixed coordinates,ECEF,pose measurements,Vehicles,Global Positioning System,Gyroscopes,Sensor fusion,Kalman filters,Estimation}
+    \endentry
+    \entry{yurtsever_survey_2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0c3f0ad3da3151d25b9be89f2f2465b0}{%
+           family={Yurtsever},
+           familyi={Y\bibinitperiod},
+           given={Ekim},
+           giveni={E\bibinitperiod}}}%
+        {{hash=bb0130687f341d41152fb7ecf5dcf8f1}{%
+           family={Lambert},
+           familyi={L\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c545cd85de7ae382971b9d8f679743bf}{%
+           family={Carballo},
+           familyi={C\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2b2282fdbdd87a174a8a26f0e6e2f477}{%
+           family={Takeda},
+           familyi={T\bibinitperiod},
+           given={Kazuya},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{b393f0fede2552d6cbb3f7b007907795}
+      \strng{fullhash}{b847c40b635aa0be3c6b16a7a6ff16e6}
+      \strng{bibnamehash}{b847c40b635aa0be3c6b16a7a6ff16e6}
+      \strng{authorbibnamehash}{b847c40b635aa0be3c6b16a7a6ff16e6}
+      \strng{authornamehash}{b393f0fede2552d6cbb3f7b007907795}
+      \strng{authorfullhash}{b847c40b635aa0be3c6b16a7a6ff16e6}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Automated driving systems (ADSs) promise a safe, comfortable and efficient driving experience. However, fatalities involving vehicles equipped with ADSs are on the rise. The full potential of ADSs cannot be realized unless the robustness of state-of-the-art improved further. This paper discusses unsolved problems and surveys the technical aspect of automated driving. Studies regarding present challenges, high-level system architectures, emerging methodologies and core functions: localization, mapping, perception, planning, and human machine interface, were thoroughly reviewed. Furthermore, the state-of-the-art was implemented on our own platform and various algorithms were compared in a real-world driving setting. The paper concludes with an overview of available datasets and tools for ADS development.}
+      \field{journaltitle}{arXiv:1906.05113 [cs, eess]}
+      \field{month}{6}
+      \field{note}{arXiv: 1906.05113}
+      \field{shorttitle}{A {Survey} of {Autonomous} {Driving}}
+      \field{title}{A {Survey} of {Autonomous} {Driving}: {Common} {Practices} and {Emerging} {Technologies}}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1906.05113
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1906.05113
+      \endverb
+      \keyw{Computer Science - Robotics,Electrical Engineering and Systems Science - Systems and Control}
+    \endentry
+    \entry{objectDetection_yolo:_02-10}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labeltitlesource}{title}
+      \field{abstract}{You only look once (YOLO) is a state-of-the-art, real-time object detection system.}
+      \field{title}{{YOLO}: {Real}-{Time} {Object} {Detection}}
+      \field{urlday}{2}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pjreddie.com/darknet/yolo/
+      \endverb
+      \verb{url}
+      \verb https://pjreddie.com/darknet/yolo/
+      \endverb
+    \endentry
+    \entry{d2l_12.3._10.10}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labeltitlesource}{title}
+      \field{title}{12.3. {Object} {Detection} and {Bounding} {Boxes} — {Dive} into {Deep} {Learning} 0.7 documentation}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://d2l.ai/chapter_computer-vision/bounding-box.html
+      \endverb
+      \verb{url}
+      \verb http://d2l.ai/chapter_computer-vision/bounding-box.html
+      \endverb
+    \endentry
+    \entry{mittal_instance_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1f4e586fa613a9c0bd27eda2b9336846}{%
+           family={Mittal},
+           familyi={M\bibinitperiod},
+           given={Aditi},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1f4e586fa613a9c0bd27eda2b9336846}
+      \strng{fullhash}{1f4e586fa613a9c0bd27eda2b9336846}
+      \strng{bibnamehash}{1f4e586fa613a9c0bd27eda2b9336846}
+      \strng{authorbibnamehash}{1f4e586fa613a9c0bd27eda2b9336846}
+      \strng{authornamehash}{1f4e586fa613a9c0bd27eda2b9336846}
+      \strng{authorfullhash}{1f4e586fa613a9c0bd27eda2b9336846}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article discusses the instance segmentation technique, Mask R-CNN, with a brief introduction to object detection techniques such as…}
+      \field{journaltitle}{Medium}
+      \field{month}{6}
+      \field{title}{Instance segmentation using {Mask} R-{CNN}}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/instance-segmentation-using-mask-r-cnn-7f77bdd46abd
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/instance-segmentation-using-mask-r-cnn-7f77bdd46abd
+      \endverb
+    \endentry
+    \entry{yurtsever_driving_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0c3f0ad3da3151d25b9be89f2f2465b0}{%
+           family={Yurtsever},
+           familyi={Y\bibinitperiod},
+           given={Ekim},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c3f0ad3da3151d25b9be89f2f2465b0}
+      \strng{fullhash}{0c3f0ad3da3151d25b9be89f2f2465b0}
+      \strng{bibnamehash}{0c3f0ad3da3151d25b9be89f2f2465b0}
+      \strng{authorbibnamehash}{0c3f0ad3da3151d25b9be89f2f2465b0}
+      \strng{authornamehash}{0c3f0ad3da3151d25b9be89f2f2465b0}
+      \strng{authorfullhash}{0c3f0ad3da3151d25b9be89f2f2465b0}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{month}{10}
+      \field{note}{original-date: 2018-10-19T02:53:10Z}
+      \field{shorttitle}{Driving risk assessment with deep learning using a monocular camera. {Related} paper}
+      \field{title}{Driving risk assessment with deep learning using a monocular camera. {Related} paper: https://arxiv.org/abs/1906.02859 : {Ekim}-{Yurtsever}/{DeepTL}-{Lane}-{Change}-{Classification}}
+      \field{urlday}{2}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/Ekim-Yurtsever/DeepTL-Lane-Change-Classification
+      \endverb
+      \verb{url}
+      \verb https://github.com/Ekim-Yurtsever/DeepTL-Lane-Change-Classification
+      \endverb
+    \endentry
+    \entry{TraxxasTRX4}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labeltitlesource}{shorttitle}
+      \field{month}{2}
+      \field{shorttitle}{{TRX}-4® {Unassembled} {Kit}}
+      \field{title}{{TRX}-4® {Unassembled} {Kit}: 4WD {Chassis} with {TQi} {Traxxas} {Link}™ {Enabled} 2.4GHz {Radio} {System}}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://traxxas.com/products/models/electric/trx-4-kit
+      \endverb
+      \verb{url}
+      \verb https://traxxas.com/products/models/electric/trx-4-kit
+      \endverb
+    \endentry
+    \entry{JetsonNano}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{{NVIDIA Jetson Nano Developer Kit}}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://developer.nvidia.com/embedded/jetson-nano-developer-kit
+      \endverb
+      \verb{url}
+      \verb https://developer.nvidia.com/embedded/jetson-nano-developer-kit
+      \endverb
+    \endentry
+    \entry{WebcamSearch1}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{{Best webcam 2019}}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.techradar.com/news/computing-components/peripherals/what-webcam-5-reviewed-and-rated-1027972
+      \endverb
+      \verb{url}
+      \verb https://www.techradar.com/news/computing-components/peripherals/what-webcam-5-reviewed-and-rated-1027972
+      \endverb
+    \endentry
+    \entry{WebcamSearch2}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{{Best webcams 2019}}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.expertreviews.co.uk/accessories/1406114/best-webcams
+      \endverb
+      \verb{url}
+      \verb https://www.expertreviews.co.uk/accessories/1406114/best-webcams
+      \endverb
+    \endentry
+    \entry{WebcamSearch3}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{{Best webcams for 2019}}
+      \field{urlday}{7}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.pcgamer.com/best-webcams/
+      \endverb
+      \verb{url}
+      \verb https://www.pcgamer.com/best-webcams/
+      \endverb
+    \endentry
+    \entry{JetPack}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{{JetPack | NVIDIA Developer}}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://developer.nvidia.com/embedded/jetpack
+      \endverb
+      \verb{url}
+      \verb https://developer.nvidia.com/embedded/jetpack
+      \endverb
+    \endentry
+    \entry{lego_identifying_legoparts}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=045ab0f2a6744cab9df05f98d3b0d0af}{%
+           family={{LEGO}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{fullhash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{bibnamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authorbibnamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authornamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authorfullhash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Identifying {LEGO}® set and part numbers}
+      \field{urlday}{2}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.lego.com/en-us/service/help/bricks-building/replacement-parts/identifying-lego-set-and-part-numbers-408100000009668
+      \endverb
+      \verb{url}
+      \verb https://www.lego.com/en-us/service/help/bricks-building/replacement-parts/identifying-lego-set-and-part-numbers-408100000009668
+      \endverb
+    \endentry
+    \entry{BrickOWl-figure-EV3}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b21823ad5343739cfb7201b9ba912573}{%
+           family={{Brick Owl}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{fullhash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{bibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorbibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authornamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorfullhash}{b21823ad5343739cfb7201b9ba912573}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-ev3-intelligent-brick-set-45500-15-1.jpg
+      \endverb
+      \verb{url}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-ev3-intelligent-brick-set-45500-15-1.jpg
+      \endverb
+    \endentry
+    \entry{LEGO_ev3_nodate}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{title}{{EV}3 {Cable} {Pack} 45514 {|} {MINDSTORMS}® {|} {Buy} online at the {Official} {LEGO}® {Shop} {DK}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.lego.com/en-dk/product/ev3-cable-pack-45514
+      \endverb
+      \verb{url}
+      \verb https://www.lego.com/en-dk/product/ev3-cable-pack-45514
+      \endverb
+    \endentry
+    \entry{LEGO_lego_nodate2}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Create and command robots that do what you want with LEGO® MINDSTORMS® EV3!}
+      \field{title}{{LEGO}® {MINDSTORMS}® {EV}3 31313 {|} {MINDSTORMS}® {|} {Buy} online at the {Official} {LEGO}® {Shop} {DK}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.lego.com/en-dk/product/lego-mindstorms-ev3-31313
+      \endverb
+      \verb{url}
+      \verb https://www.lego.com/en-dk/product/lego-mindstorms-ev3-31313
+      \endverb
+    \endentry
+    \entry{LEGO_mindstorms_2013-1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=045ab0f2a6744cab9df05f98d3b0d0af}{%
+           family={LEGO},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{fullhash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{bibnamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authorbibnamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authornamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authorfullhash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{MINDSTORMS} {EV}3 {User} {Guide}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.lego.com/cdn/cs/set/assets/bltbef4d6ce0f40363c/LMSUser_Guide_LEGO_MINDSTORMS_EV3_11_Tablet_ENUS.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.lego.com/cdn/cs/set/assets/bltbef4d6ce0f40363c/LMSUser_Guide_LEGO_MINDSTORMS_EV3_11_Tablet_ENUS.pdf
+      \endverb
+    \endentry
+    \entry{LEGO_lego_nodate}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Create and command robots that do what you want with LEGO® MINDSTORMS® EV3!}
+      \field{title}{{LEGO}® {MINDSTORMS}® {EV}3 31313 {|} {MINDSTORMS}® {|} {Buy} online at the {Official} {LEGO}® {Shop} {DK}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.lego.com/en-dk/product/lego-mindstorms-ev3-31313
+      \endverb
+      \verb{url}
+      \verb https://www.lego.com/en-dk/product/lego-mindstorms-ev3-31313
+      \endverb
+    \endentry
+    \entry{BrickOWl-figure-NXT2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b21823ad5343739cfb7201b9ba912573}{%
+           family={{Brick Owl}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{fullhash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{bibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorbibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authornamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorfullhash}{b21823ad5343739cfb7201b9ba912573}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-nxt-intelligent-brick-set-9841-15.jpg
+      \endverb
+      \verb{url}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-nxt-intelligent-brick-set-9841-15.jpg
+      \endverb
+    \endentry
+    \entry{montes_real-time_2019}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=289cb00ac8e67dd9f08004c758f8e312}{%
+           family={Montés},
+           familyi={M\bibinitperiod},
+           given={Nicolás},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b2d801897037d78c8a99ba984d37adb4}{%
+           family={Rosillo},
+           familyi={R\bibinitperiod},
+           given={Nuria},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f3a067ef0f558b3e3a65f77cfe2f2e90}{%
+           family={Covadonga\bibnamedelima Mora},
+           familyi={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=49bd776b4c33d11a2ea636d230ca2bc7}{%
+           family={Hilario},
+           familyi={H\bibinitperiod},
+           given={Lucia},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{a7abc88528636ea6b7d4b968f26be2db}
+      \strng{fullhash}{b5e79d3cc54c3807e45c885295589f69}
+      \strng{bibnamehash}{b5e79d3cc54c3807e45c885295589f69}
+      \strng{authorbibnamehash}{b5e79d3cc54c3807e45c885295589f69}
+      \strng{authornamehash}{a7abc88528636ea6b7d4b968f26be2db}
+      \strng{authorfullhash}{b5e79d3cc54c3807e45c885295589f69}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This work develops a new educational platform based on the Matlab-Simulink package for the teaching of robotics using the Lego EV3 platform. The majority of Lego platforms used in the literature are NXT platforms, as the EV3 platform is relatively new (January 2013). Moreover, in contrast to previous Lego robot versions, this platform allows to develop a real-time framework to teach Robotics subjects. The framework is based in Matlab, the most widely used programming environment with LEGO Mindstorms, and employs the package provided by MathWorks. The proposed framework is tested here for a new motion planning algorithm, where the user can interact with the environment and the robot in real-time via a web camera. To the authors’ knowledge, this is the first time a real-time application, capable to interact with the student, is developed to teach Robotics with EV3 platforms.}
+      \field{booktitle}{Robotics in education}
+      \field{isbn}{9783319970844}
+      \field{title}{Real-{Time} {Matlab}-{Simulink}-{Lego} {EV}3 {Framework} for {Teaching} {Robotics} {Subjects}}
+      \field{year}{2019}
+      \field{pages}{230\bibrangedash 240}
+      \range{pages}{11}
+    \endentry
+    \entry{lego_mindstorms_2009}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=045ab0f2a6744cab9df05f98d3b0d0af}{%
+           family={{LEGO}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{fullhash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{bibnamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authorbibnamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authornamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authorfullhash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{MINDSTORMS} {NXT} 2.0 {User} {Guide}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.lego.com/biassets/bi/4589647.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.lego.com/biassets/bi/4589647.pdf
+      \endverb
+    \endentry
+    \entry{RaspberryPI-figure-Pi4b}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6017d2fbaaee812cd1a0628bc0a6b242}{%
+           family={{Raspberry Pi Foundation}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{fullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{bibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorbibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authornamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorfullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.raspberrypi.org/app/uploads/2019/06/HERO-ALT.jpg
+      \endverb
+      \verb{url}
+      \verb https://www.raspberrypi.org/app/uploads/2019/06/HERO-ALT.jpg
+      \endverb
+    \endentry
+    \entry{raspberry_pi_foundation_raspberry_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6017d2fbaaee812cd1a0628bc0a6b242}{%
+           family={{Raspberry Pi Foundation}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-GB}%
+      }
+      \strng{namehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{fullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{bibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorbibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authornamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorfullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Raspberry Pi Foundation is a UK-based charity that works to put the power of digital making into the hands of people all over the world.}
+      \field{title}{Raspberry {Pi} {Foundation} - {About} {Us}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.raspberrypi.org/about/
+      \endverb
+      \verb{url}
+      \verb https://www.raspberrypi.org/about/
+      \endverb
+    \endentry
+    \entry{raspberry_pi_foundation_what_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6017d2fbaaee812cd1a0628bc0a6b242}{%
+           family={{Raspberry Pi Foundation}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-GB}%
+      }
+      \strng{namehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{fullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{bibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorbibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authornamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorfullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse.}
+      \field{journaltitle}{Raspberry Pi}
+      \field{title}{What is a {Raspberry} {Pi}?}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.raspberrypi.org/help/what-is-a-raspberry-pi/
+      \endverb
+      \verb{url}
+      \verb https://www.raspberrypi.org/help/what-is-a-raspberry-pi/
+      \endverb
+    \endentry
+    \entry{raspberry_pi_foundation_bcm2835_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6017d2fbaaee812cd1a0628bc0a6b242}{%
+           family={{Raspberry Pi Foundation}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{fullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{bibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorbibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authornamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorfullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This section contains documentation with technical information about the Raspberry Pi hardware, including official add-ons and the Pi itself.}
+      \field{title}{{BCM}2835 - {Raspberry} {Pi} {Documentation}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2835/README.md
+      \endverb
+      \verb{url}
+      \verb https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2835/README.md
+      \endverb
+    \endentry
+    \entry{arm_limited_arm11_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=de420dd1e8e516040202cdadd734c0f6}{%
+           family={{Arm Limited}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{de420dd1e8e516040202cdadd734c0f6}
+      \strng{fullhash}{de420dd1e8e516040202cdadd734c0f6}
+      \strng{bibnamehash}{de420dd1e8e516040202cdadd734c0f6}
+      \strng{authorbibnamehash}{de420dd1e8e516040202cdadd734c0f6}
+      \strng{authornamehash}{de420dd1e8e516040202cdadd734c0f6}
+      \strng{authorfullhash}{de420dd1e8e516040202cdadd734c0f6}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{ARM}11 processors}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.set.arm11/index.html&_ga=2.155964850.889934770.1569486481-1895601341.1569328253
+      \endverb
+      \verb{url}
+      \verb http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.set.arm11/index.html&_ga=2.155964850.889934770.1569486481-1895601341.1569328253
+      \endverb
+    \endentry
+    \entry{raspberry_pi_foundation_raspberry_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6017d2fbaaee812cd1a0628bc0a6b242}{%
+           family={{Raspberry Pi Foundation}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{fullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{bibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorbibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authornamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorfullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Raspberry Pi 4 specs, specifications, and bechmarks from The MagPi, the official Raspberry Pi magazine}
+      \field{journaltitle}{The MagPi Magazine}
+      \field{month}{6}
+      \field{title}{Raspberry {Pi} 4 specs and benchmarks}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.raspberrypi.org/magpi/raspberry-pi-4-specs-benchmarks/
+      \endverb
+      \verb{url}
+      \verb https://www.raspberrypi.org/magpi/raspberry-pi-4-specs-benchmarks/
+      \endverb
+    \endentry
+    \entry{raspberry_pi_foundation_faqs_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6017d2fbaaee812cd1a0628bc0a6b242}{%
+           family={{Raspberry Pi Foundation}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{fullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{bibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorbibnamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authornamehash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \strng{authorfullhash}{6017d2fbaaee812cd1a0628bc0a6b242}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Official documentation for the Raspberry Pi, written by the Raspberry Pi Foundation with community contributions.}
+      \field{title}{{FAQs} - {Raspberry} {Pi} {Documentation}}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.raspberrypi.org/documentation/faqs/
+      \endverb
+      \verb{url}
+      \verb https://www.raspberrypi.org/documentation/faqs/
+      \endverb
+    \endentry
+    \entry{arduino_arduino_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={{Arduino}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Arduino - {Introduction}}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.arduino.cc/en/Guide/Introduction
+      \endverb
+      \verb{url}
+      \verb https://www.arduino.cc/en/Guide/Introduction
+      \endverb
+    \endentry
+    \entry{arduino_arduino_products}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={{Arduino}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Arduino - {Products}}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.arduino.cc/en/Main/Products
+      \endverb
+      \verb{url}
+      \verb https://www.arduino.cc/en/Main/Products
+      \endverb
+    \endentry
+    \entry{Arduino-figure-UNO}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={{Arduino}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/520x330/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_1_.jpg
+      \endverb
+      \verb{url}
+      \verb https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/520x330/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_1_.jpg
+      \endverb
+    \endentry
+    \entry{arduino_arduino_UNO}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={{Arduino}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{<}p{>}{<}strong{>}Arduino Uno{<}/strong{>} is a microcontroller board based on the ATmega328P ({<}a href="http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P\_Datasheet.pdf" target="\_blank"{>}datasheet{<}/a{>}). It has 14 digital}
+      \field{title}{Arduino {Uno} {Rev}3}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://store.arduino.cc/usa/arduino-uno-rev3
+      \endverb
+      \verb{url}
+      \verb https://store.arduino.cc/usa/arduino-uno-rev3
+      \endverb
+    \endentry
+    \entry{Arduino-figure-MEGA}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={{Arduino}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/520x330/604a3538c15e081937dbfbd20aa60aad/a/0/a000067_featured_1_.jpg
+      \endverb
+      \verb{url}
+      \verb https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/520x330/604a3538c15e081937dbfbd20aa60aad/a/0/a000067_featured_1_.jpg
+      \endverb
+    \endentry
+    \entry{arduino_arduino_MEGA}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={{Arduino}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{<}p{>}The {<}strong{>}Arduino Mega 2560{<}/strong{>} is a microcontroller board based on the\&nbsp;{<}a href="http://www.atmel.com/Images/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561\_datasheet.pdf" target="\_blank"{>}ATmega2560{<}/a{>}. It has 54 digital}
+      \field{title}{Arduino {Mega} 2560 {Rev}3}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://store.arduino.cc/usa/mega-2560-r3
+      \endverb
+      \verb{url}
+      \verb https://store.arduino.cc/usa/mega-2560-r3
+      \endverb
+    \endentry
+    \entry{BrickOWl-figure-EV3-largeServo}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b21823ad5343739cfb7201b9ba912573}{%
+           family={{Brick Owl}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{fullhash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{bibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorbibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authornamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorfullhash}{b21823ad5343739cfb7201b9ba912573}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-ev3-large-servo-motor-set-45502-4.jpg
+      \endverb
+      \verb{url}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-ev3-large-servo-motor-set-45502-4.jpg
+      \endverb
+    \endentry
+    \entry{lego_lego_EV3NXTCompatibility}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=045ab0f2a6744cab9df05f98d3b0d0af}{%
+           family={{LEGO}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{fullhash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{bibnamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authorbibnamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authornamehash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \strng{authorfullhash}{045ab0f2a6744cab9df05f98d3b0d0af}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{LEGO}® {MINDSTORMS}® {EV}3 and {NXT} compatibility}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.lego.com/en-gb/service/help/products/themes-sets/mindstorms/lego-mindstorms-ev3-and-nxt-compatibility-408100000007885
+      \endverb
+      \verb{url}
+      \verb https://www.lego.com/en-gb/service/help/products/themes-sets/mindstorms/lego-mindstorms-ev3-and-nxt-compatibility-408100000007885
+      \endverb
+    \endentry
+    \entry{BrickOWl-figure-EV3-mediumServo}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b21823ad5343739cfb7201b9ba912573}{%
+           family={{Brick Owl}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{fullhash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{bibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorbibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authornamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorfullhash}{b21823ad5343739cfb7201b9ba912573}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-ev3-medium-servo-motor-set-45503-15.jpg
+      \endverb
+      \verb{url}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-ev3-medium-servo-motor-set-45503-15.jpg
+      \endverb
+    \endentry
+    \entry{BrickOWl-figure-NXT2-Servo}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b21823ad5343739cfb7201b9ba912573}{%
+           family={{Brick Owl}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{fullhash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{bibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorbibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authornamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorfullhash}{b21823ad5343739cfb7201b9ba912573}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-interactive-servo-motor-set-9842-15.jpg
+      \endverb
+      \verb{url}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-interactive-servo-motor-set-9842-15.jpg
+      \endverb
+    \endentry
+    \entry{gasperi_extreme_2009}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7d7c4129515417f5463b7b1cda1f1dce}{%
+           family={Gasperi},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=80706395f47d3136592814bd7806aa40}{%
+           family={Hurbain},
+           familyi={H\bibinitperiod},
+           given={Philippe\bibnamedelima “Philo”},
+           giveni={P\bibinitperiod\bibinitdelim “\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Berkeley, CA}%
+      }
+      \list{publisher}{1}{%
+        {Apress}%
+      }
+      \strng{namehash}{3db7f322718f638a7e80fabf3c1f3832}
+      \strng{fullhash}{3db7f322718f638a7e80fabf3c1f3832}
+      \strng{bibnamehash}{3db7f322718f638a7e80fabf3c1f3832}
+      \strng{authorbibnamehash}{3db7f322718f638a7e80fabf3c1f3832}
+      \strng{authornamehash}{3db7f322718f638a7e80fabf3c1f3832}
+      \strng{authorfullhash}{3db7f322718f638a7e80fabf3c1f3832}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781430224532 9781430224549}
+      \field{shorttitle}{Extreme {NXT}}
+      \field{title}{Extreme {NXT}: {Extending} the {LEGO} {MINDSTORMS} {NXT} to the {Next} {Level}}
+      \field{urlday}{2}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-1-4302-2454-9
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-1-4302-2454-9
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-1-4302-2454-9
+      \endverb
+    \endentry
+    \entry{hurbain_nxt_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c1851d911aca2bc26e20250baba01db3}{%
+           family={Hurbain},
+           familyi={H\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1851d911aca2bc26e20250baba01db3}
+      \strng{fullhash}{c1851d911aca2bc26e20250baba01db3}
+      \strng{bibnamehash}{c1851d911aca2bc26e20250baba01db3}
+      \strng{authorbibnamehash}{c1851d911aca2bc26e20250baba01db3}
+      \strng{authornamehash}{c1851d911aca2bc26e20250baba01db3}
+      \strng{authorfullhash}{c1851d911aca2bc26e20250baba01db3}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{NXT}® motor internals}
+      \field{urlday}{2}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.philohome.com/nxtmotor/nxtmotor.htm
+      \endverb
+      \verb{url}
+      \verb http://www.philohome.com/nxtmotor/nxtmotor.htm
+      \endverb
+    \endentry
+    \entry{BrickOWl-figure-Technic-MiniMotor9v}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b21823ad5343739cfb7201b9ba912573}{%
+           family={{Brick Owl}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{fullhash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{bibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorbibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authornamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorfullhash}{b21823ad5343739cfb7201b9ba912573}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-small-technic-motor-42-grams-28.jpg
+      \endverb
+      \verb{url}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-small-technic-motor-42-grams-28.jpg
+      \endverb
+    \endentry
+    \entry{hurbain_lego_technicmotorComp}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c1851d911aca2bc26e20250baba01db3}{%
+           family={Hurbain},
+           familyi={H\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1851d911aca2bc26e20250baba01db3}
+      \strng{fullhash}{c1851d911aca2bc26e20250baba01db3}
+      \strng{bibnamehash}{c1851d911aca2bc26e20250baba01db3}
+      \strng{authorbibnamehash}{c1851d911aca2bc26e20250baba01db3}
+      \strng{authornamehash}{c1851d911aca2bc26e20250baba01db3}
+      \strng{authorfullhash}{c1851d911aca2bc26e20250baba01db3}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{LEGO} 9V {Technic} {Motors} compared characteristics}
+      \field{urlday}{2}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.philohome.com/motors/motorcomp.htm
+      \endverb
+      \verb{url}
+      \verb http://www.philohome.com/motors/motorcomp.htm
+      \endverb
+    \endentry
+    \entry{BrickOWl-figure-Technic-Motor9v}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b21823ad5343739cfb7201b9ba912573}{%
+           family={{Brick Owl}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{fullhash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{bibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorbibnamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authornamehash}{b21823ad5343739cfb7201b9ba912573}
+      \strng{authorfullhash}{b21823ad5343739cfb7201b9ba912573}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-large-technic-motor-9v-2838-28.jpg
+      \endverb
+      \verb{url}
+      \verb https://img.brickowl.com/files/image_cache/larger/lego-large-technic-motor-9v-2838-28.jpg
+      \endverb
+    \endentry
+    \entry{Logitech-figure-C910}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ff70d460a420205ceeea16f1c13e51b1}{%
+           family={{Logitech}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff70d460a420205ceeea16f1c13e51b1}
+      \strng{fullhash}{ff70d460a420205ceeea16f1c13e51b1}
+      \strng{bibnamehash}{ff70d460a420205ceeea16f1c13e51b1}
+      \strng{authorbibnamehash}{ff70d460a420205ceeea16f1c13e51b1}
+      \strng{authornamehash}{ff70d460a420205ceeea16f1c13e51b1}
+      \strng{authorfullhash}{ff70d460a420205ceeea16f1c13e51b1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{urlday}{2}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://secure.logitech.com/assets/31671/c910-front-view.jpg
+      \endverb
+      \verb{url}
+      \verb https://secure.logitech.com/assets/31671/c910-front-view.jpg
+      \endverb
+    \endentry
+    \entry{logitech_logitech_spec}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ff70d460a420205ceeea16f1c13e51b1}{%
+           family={{Logitech}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-IN}%
+      }
+      \strng{namehash}{ff70d460a420205ceeea16f1c13e51b1}
+      \strng{fullhash}{ff70d460a420205ceeea16f1c13e51b1}
+      \strng{bibnamehash}{ff70d460a420205ceeea16f1c13e51b1}
+      \strng{authorbibnamehash}{ff70d460a420205ceeea16f1c13e51b1}
+      \strng{authornamehash}{ff70d460a420205ceeea16f1c13e51b1}
+      \strng{authorfullhash}{ff70d460a420205ceeea16f1c13e51b1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{NOTE: Information is for reference only and may be subject to change. General Product Information: [Compliance Certification (CE) Link] Warranty / Self Help Please see the product support page...}
+      \field{journaltitle}{Logitech Support + Download}
+      \field{title}{Logitech {HD} {Pro} {Webcam} C910 {Technical} {Specifications}}
+      \field{urlday}{15}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://support.logi.com/hc/en-in/articles/360023306114-Logitech-HD-Pro-Webcam-C910-Technical-Specifications
+      \endverb
+      \verb{url}
+      \verb http://support.logi.com/hc/en-in/articles/360023306114-Logitech-HD-Pro-Webcam-C910-Technical-Specifications
+      \endverb
+    \endentry
+    \entry{moog_car_steering_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=50530e4e121d979556c256edca9579b4}{%
+           family={{MOOG}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{50530e4e121d979556c256edca9579b4}
+      \strng{fullhash}{50530e4e121d979556c256edca9579b4}
+      \strng{bibnamehash}{50530e4e121d979556c256edca9579b4}
+      \strng{authorbibnamehash}{50530e4e121d979556c256edca9579b4}
+      \strng{authornamehash}{50530e4e121d979556c256edca9579b4}
+      \strng{authorfullhash}{50530e4e121d979556c256edca9579b4}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{How do car steering systems work? Get to know the function of a steering system and its role in great handling with MOOG.}
+      \field{journaltitle}{MOOG Parts}
+      \field{shorttitle}{How a car steering system works}
+      \field{title}{How a car steering system works: easy guide {|} {MOOG}}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.moogparts.eu/blog/how-a-steering-system-works.html
+      \endverb
+      \verb{url}
+      \verb https://www.moogparts.eu/blog/how-a-steering-system-works.html
+      \endverb
+    \endentry
+    \entry{collins_car_steering_2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=38ebe1e45b6adb61154c1c4a52f1ea73}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{38ebe1e45b6adb61154c1c4a52f1ea73}
+      \strng{fullhash}{38ebe1e45b6adb61154c1c4a52f1ea73}
+      \strng{bibnamehash}{38ebe1e45b6adb61154c1c4a52f1ea73}
+      \strng{authorbibnamehash}{38ebe1e45b6adb61154c1c4a52f1ea73}
+      \strng{authornamehash}{38ebe1e45b6adb61154c1c4a52f1ea73}
+      \strng{authorfullhash}{38ebe1e45b6adb61154c1c4a52f1ea73}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{You may have a very powerful engine and a super-responsive, highly efficient transmission that transfers all this raw energy to your wheels, but if you don’t have a way to control the wheels and maneuver them in the direction you want to go, then you’d still end up with nothing less than a highly glorified …}
+      \field{journaltitle}{Carbibles}
+      \field{month}{1}
+      \field{title}{How {Car} {Steering} {Systems} {Work}}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.carbibles.com/car-steering-systems/
+      \endverb
+      \verb{url}
+      \verb https://www.carbibles.com/car-steering-systems/
+      \endverb
+    \endentry
+    \entry{gareffa_car_drive_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8575ebf98f9b5fb278878dfcc5b9601a}{%
+           family={Gareffa},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-us}%
+      }
+      \strng{namehash}{8575ebf98f9b5fb278878dfcc5b9601a}
+      \strng{fullhash}{8575ebf98f9b5fb278878dfcc5b9601a}
+      \strng{bibnamehash}{8575ebf98f9b5fb278878dfcc5b9601a}
+      \strng{authorbibnamehash}{8575ebf98f9b5fb278878dfcc5b9601a}
+      \strng{authornamehash}{8575ebf98f9b5fb278878dfcc5b9601a}
+      \strng{authorfullhash}{8575ebf98f9b5fb278878dfcc5b9601a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{How to choose between front-, rear-, four- and all-wheel-drive vehicles.}
+      \field{journaltitle}{Edmunds}
+      \field{title}{All {About} {Front}-, {Rear}-, {Four}- and {All}-{Wheel} {Drive}}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.edmunds.com/car-technology/what-wheel-drive.html
+      \endverb
+      \verb{url}
+      \verb https://www.edmunds.com/car-technology/what-wheel-drive.html
+      \endverb
+    \endentry
+    \entry{glon_car_drive_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=959632943b9441b4bfea8d1b9b41acc5}{%
+           family={Glon},
+           familyi={G\bibinitperiod},
+           given={Ronan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{959632943b9441b4bfea8d1b9b41acc5}
+      \strng{fullhash}{959632943b9441b4bfea8d1b9b41acc5}
+      \strng{bibnamehash}{959632943b9441b4bfea8d1b9b41acc5}
+      \strng{authorbibnamehash}{959632943b9441b4bfea8d1b9b41acc5}
+      \strng{authornamehash}{959632943b9441b4bfea8d1b9b41acc5}
+      \strng{authorfullhash}{959632943b9441b4bfea8d1b9b41acc5}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Front-wheel drive (FWD), rear-wheel drive (RWD), and four- or all-wheel drive (4WD or AWD): you’ve probably heard these terms kicked around before. Here's the difference between the three, along with our description of the advantages and disadvantages of each drivetrain system.}
+      \field{journaltitle}{Digital Trends}
+      \field{month}{9}
+      \field{shorttitle}{{FWD} vs. {RWD} vs. {AWD}}
+      \field{title}{{FWD} vs. {RWD} vs. {AWD}: {How} the wheels that turn change the way you drive}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.digitaltrends.com/cars/fwd-vs-awd-vs-rwd/
+      \endverb
+      \verb{url}
+      \verb https://www.digitaltrends.com/cars/fwd-vs-awd-vs-rwd/
+      \endverb
+    \endentry
+    \entry{yang_end--end_2018}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=2d3579ec7df6d4114e1dcbc418a92dd1}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Zhengyuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=d85635425e573e6696932586436a9152}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yixuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=31bde10cb300e6832ff1b42e0a1806b0}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Jerry},
+           giveni={J\bibinitperiod}}}%
+        {{hash=26b85fea2427c418c32b9002bac28690}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Junjie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=efa9b2a65485dcaee98452ac77378cac}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Jiebo},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9bc84e8e2a40939dd2728748688f765f}
+      \strng{fullhash}{500d467e2965b87c2d6994b4cb62d344}
+      \strng{bibnamehash}{500d467e2965b87c2d6994b4cb62d344}
+      \strng{authorbibnamehash}{500d467e2965b87c2d6994b4cb62d344}
+      \strng{authornamehash}{9bc84e8e2a40939dd2728748688f765f}
+      \strng{authorfullhash}{500d467e2965b87c2d6994b4cb62d344}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Convolutional Neural Networks (CNN) have been successfully applied to autonomous driving tasks, many in an end-to-end manner. Previous end-to-end steering control methods take an image or an image sequence as the input and directly predict the steering angle with CNN. Although single task learning on steering angles has reported good performances, the steering angle alone is not sufficient for vehicle control. In this work, we propose a multi-task learning framework to predict the steering angle and speed control simultaneously in an end-to-end manner. Since it is nontrivial to predict accurate speed values with only visual inputs, we first propose a network to predict discrete speed commands and steering angles with image sequences. Moreover, we propose a multi-modal multi-task network to predict speed values and steering angles by taking previous feedback speeds and visual recordings as inputs. Experiments are conducted on the public Udacity dataset and a newly collected SAIC dataset. Results show that the proposed model predicts steering angles and speed values accurately. Furthermore, we improve the failure data synthesis methods to solve the problem of error accumulation in real road tests.}
+      \field{booktitle}{2018 24th {International} {Conference} on {Pattern} {Recognition} ({ICPR})}
+      \field{month}{8}
+      \field{note}{ISSN: 1051-4651}
+      \field{title}{End-to-end {Multi}-{Modal} {Multi}-{Task} {Vehicle} {Control} for {Self}-{Driving} {Cars} with {Visual} {Perceptions}}
+      \field{year}{2018}
+      \field{pages}{2289\bibrangedash 2294}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICPR.2018.8546189
+      \endverb
+      \keyw{automobiles,control system synthesis,feedback,feedforward neural nets,image sequences,learning (artificial intelligence),mobile robots,road vehicles,robot vision,steering systems,traffic engineering computing,velocity control,speed values,multimodal multitask vehicle control,autonomous driving tasks,end-to-end manner,previous end-to-end steering control methods,image sequence,steering angle,multitask learning framework,multimodal multitask network,self-driving cars,visual perceptions,convolutional neural networks,CNN,public Udacity dataset,SAIC dataset,failure data synthesis methods,road tests,Visualization,Roads,Cameras,Task analysis,Image sequences,Velocity control,Kernel}
+    \endentry
+    \entry{patil_convnets_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=830916878f32802e1dea7994eaef1571}{%
+           family={Patil},
+           familyi={P\bibinitperiod},
+           given={Abhinit},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{830916878f32802e1dea7994eaef1571}
+      \strng{fullhash}{830916878f32802e1dea7994eaef1571}
+      \strng{bibnamehash}{830916878f32802e1dea7994eaef1571}
+      \strng{authorbibnamehash}{830916878f32802e1dea7994eaef1571}
+      \strng{authornamehash}{830916878f32802e1dea7994eaef1571}
+      \strng{authorfullhash}{830916878f32802e1dea7994eaef1571}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Computers + Cars = Driverless cars. Whether or not you have you ever seen one, we are all fascinated by how this can be possible. After a…}
+      \field{journaltitle}{Medium}
+      \field{month}{3}
+      \field{title}{{ConvNets} \& {Driverless} {Cars}}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/datadriveninvestor/convnets-driverless-cars-997976c5ee4c
+      \endverb
+      \verb{url}
+      \verb https://medium.com/datadriveninvestor/convnets-driverless-cars-997976c5ee4c
+      \endverb
+    \endentry
+    \entry{kocic_end--end_2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7099b5c0590d1b9babe60ef7fcea6e88}{%
+           family={Kocić},
+           familyi={K\bibinitperiod},
+           given={Jelena},
+           giveni={J\bibinitperiod}}}%
+        {{hash=974b29ad52ff459fcaaf71777561429e}{%
+           family={Jovičić},
+           familyi={J\bibinitperiod},
+           given={Nenad},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a1c6fddb6d25d36974366458f04f3090}{%
+           family={Drndarević},
+           familyi={D\bibinitperiod},
+           given={Vujo},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{51d56f936b1a29af097cf1a0d6207aa1}
+      \strng{fullhash}{51d56f936b1a29af097cf1a0d6207aa1}
+      \strng{bibnamehash}{51d56f936b1a29af097cf1a0d6207aa1}
+      \strng{authorbibnamehash}{51d56f936b1a29af097cf1a0d6207aa1}
+      \strng{authornamehash}{51d56f936b1a29af097cf1a0d6207aa1}
+      \strng{authorfullhash}{51d56f936b1a29af097cf1a0d6207aa1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, one solution for an end-to-end deep neural network for autonomous driving is presented. The main objective of our work was to achieve autonomous driving with a light deep neural network suitable for deployment on embedded automotive platforms. There are several end-to-end deep neural networks used for autonomous driving, where the input to the machine learning algorithm are camera images and the output is the steering angle prediction, but those convolutional neural networks are significantly more complex than the network architecture we are proposing. The network architecture, computational complexity, and performance evaluation during autonomous driving using our network are compared with two other convolutional neural networks that we re-implemented with the aim to have an objective evaluation of the proposed network. The trained model of the proposed network is four times smaller than the PilotNet model and about 250 times smaller than AlexNet model. While complexity and size of the novel network are reduced in comparison to other models, which leads to lower latency and higher frame rate during inference, our network maintained the performance, achieving successful autonomous driving with similar efficiency compared to autonomous driving using two other models. Moreover, the proposed deep neural network downsized the needs for real-time inference hardware in terms of computational power, cost, and size.}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors (Basel, Switzerland)}
+      \field{month}{5}
+      \field{number}{9}
+      \field{title}{An {End}-to-{End} {Deep} {Neural} {Network} for {Autonomous} {Driving} {Designed} for {Embedded} {Automotive} {Platforms}}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{19}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3390/s19092064
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6539483/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6539483/
+      \endverb
+    \endentry
+    \entry{bojarski_end--end-nvidea_2016}{article}{}
+      \name{author}{13}{}{%
+        {{hash=3d886da2c15b909d551bde9c25e9e936}{%
+           family={Bojarski},
+           familyi={B\bibinitperiod},
+           given={Mariusz},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3cc636fcf7d88718f10df5eb884a87e2}{%
+           family={Testa},
+           familyi={T\bibinitperiod},
+           given={Davide},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e6e0144fab5753d7bb35de8b7e821c39}{%
+           family={Dworakowski},
+           familyi={D\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0ccdffe97bc694f5ebb25dbdc592d191}{%
+           family={Firner},
+           familyi={F\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5e7e052316ce0c21ae845d54fb705c7f}{%
+           family={Flepp},
+           familyi={F\bibinitperiod},
+           given={Beat},
+           giveni={B\bibinitperiod}}}%
+        {{hash=70a9a4d7087f170b184ae88c487a5e3d}{%
+           family={Goyal},
+           familyi={G\bibinitperiod},
+           given={Prasoon},
+           giveni={P\bibinitperiod}}}%
+        {{hash=46081f28abf37887536d5e3f9ea7a460}{%
+           family={Jackel},
+           familyi={J\bibinitperiod},
+           given={Larry},
+           giveni={L\bibinitperiod}}}%
+        {{hash=32a45a34575d6a24003589ddc0f85cce}{%
+           family={Monfort},
+           familyi={M\bibinitperiod},
+           given={Mathew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0ea06e49d7f86ec53300bcefa737fb7a}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={Urs},
+           giveni={U\bibinitperiod}}}%
+        {{hash=4c5e7ffa00fb7c011d6ed27dfc0b9027}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiakai},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4f3bb1d3c7fa2a05241e353723deaf63}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=98f96baba6eeac010f80cf94f73989a0}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Jake},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6b2ca91b4cfbf04f79ff06fd810018c9}{%
+           family={Zieba},
+           familyi={Z\bibinitperiod},
+           given={Karol},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a5e74365004e26a5b9705c75ec711ac}
+      \strng{fullhash}{c1cdfbddfe3112f807e77fe5e95caa64}
+      \strng{bibnamehash}{c1cdfbddfe3112f807e77fe5e95caa64}
+      \strng{authorbibnamehash}{c1cdfbddfe3112f807e77fe5e95caa64}
+      \strng{authornamehash}{4a5e74365004e26a5b9705c75ec711ac}
+      \strng{authorfullhash}{c1cdfbddfe3112f807e77fe5e95caa64}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{title}{End to End Learning for Self-Driving Cars}
+      \field{year}{2016}
+    \endentry
+    \entry{nain_efficientnet_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=086579fa8255489fa6f66a33bdf80a56}{%
+           family={Nain},
+           familyi={N\bibinitperiod},
+           given={Aakash},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{086579fa8255489fa6f66a33bdf80a56}
+      \strng{fullhash}{086579fa8255489fa6f66a33bdf80a56}
+      \strng{bibnamehash}{086579fa8255489fa6f66a33bdf80a56}
+      \strng{authorbibnamehash}{086579fa8255489fa6f66a33bdf80a56}
+      \strng{authornamehash}{086579fa8255489fa6f66a33bdf80a56}
+      \strng{authorfullhash}{086579fa8255489fa6f66a33bdf80a56}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Since AlexNet won the 2012 ImageNet competition, CNNs (short for Convolutional Neural Networks) have become the de facto algorithms for a…}
+      \field{journaltitle}{Medium}
+      \field{month}{6}
+      \field{shorttitle}{{EfficientNet}}
+      \field{title}{{EfficientNet}: {Rethinking} {Model} {Scaling} for {Convolutional} {Neural} {Networks}}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@nainaakash012/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-92941c5bfb95
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@nainaakash012/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-92941c5bfb95
+      \endverb
+    \endentry
+    \entry{zhang_yolo--v3_2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=87f628db6da99dc0a2a20f276e51b3ac}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=b32f61b294f8e4aa5306c6ea6859da26}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=119bc3f3c95e8162e5026d160aca1092}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Xiaolin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6ba98b57fe1f95279a7b276f87e11088}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff7fcc4885dd2ccb2d0635db2432d649}
+      \strng{fullhash}{d310d8301c8492d64f0a8d20364a049b}
+      \strng{bibnamehash}{d310d8301c8492d64f0a8d20364a049b}
+      \strng{authorbibnamehash}{d310d8301c8492d64f0a8d20364a049b}
+      \strng{authornamehash}{ff7fcc4885dd2ccb2d0635db2432d649}
+      \strng{authorfullhash}{d310d8301c8492d64f0a8d20364a049b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To improve the accuracy of lane detection in complex scenarios, an adaptive lane feature learning algorithm which can automatically learn the features of a lane in various scenarios is proposed. First, a two-stage learning network based on the YOLO v3 (You Only Look Once, v3) is constructed. The structural parameters of the YOLO v3 algorithm are modified to make it more suitable for lane detection. To improve the training efficiency, a method for automatic generation of the lane label images in a simple scenario, which provides label data for the training of the first-stage network, is proposed. Then, an adaptive edge detection algorithm based on the Canny operator is used to relocate the lane detected by the first-stage model. Furthermore, the unrecognized lanes are shielded to avoid interference in subsequent model training. Then, the images processed by the above method are used as label data for the training of the second-stage model. The experiment was carried out on the KITTI and Caltech datasets, and the results showed that the accuracy and speed of the second-stage model reached a high level.}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors (Basel, Switzerland)}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{A {Fast} {Learning} {Method} for {Accurate} and {Robust} {Lane} {Detection} {Using} {Two}-{Stage} {Feature} {Extraction} with {YOLO} v3}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3390/s18124308
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6308794/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6308794/
+      \endverb
+    \endentry
+    \entry{wikipeadia_yuv_2019}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{abstract}{YUV is a color encoding system typically used as part of a color image pipeline. It encodes a color image or video taking human perception into account, allowing reduced bandwidth for chrominance components, thereby typically enabling transmission errors or compression artifacts to be more efficiently masked by the human perception than using a "direct" RGB-representation. Other color encodings have similar properties, and the main reason to implement or investigate properties of Y′UV would be for interfacing with analog or digital television or photographic equipment that conforms to certain Y′UV standards. The Y′UV model defines a color space in terms of one luma component (Y′) and two chrominance components, called U (blue projection) and V (red projection) respectively. The Y′UV color model is used in the PAL composite color video (excluding PAL-N) standard. Previous black-and-white systems used only luma (Y′) information. Color information (U and V) was added separately via a subcarrier so that a black-and-white receiver would still be able to receive and display a color picture transmission in the receiver's native black-and-white format. Y′ stands for the luma component (the brightness) and U and V are the chrominance (color) components; luminance is denoted by Y and luma by Y′ – the prime symbols (') denote gamma compression, with "luminance" meaning physical linear-space brightness, while "luma" is (nonlinear) perceptual brightness. The scope of the terms Y′UV, YUV, YCbCr, YPbPr, etc., is sometimes ambiguous and overlapping. Historically, the terms YUV and Y′UV were used for a specific analog encoding of color information in television systems, while YCbCr was used for digital encoding of color information suited for video and still-image compression and transmission such as MPEG and JPEG. Today, the term YUV is commonly used in the computer industry to describe file-formats that are encoded using YCbCr. The YPbPr color model used in analog component video and its digital version YCbCr used in digital video are more or less derived from it, and are sometimes called Y′UV. (CB/PB and CR/PR are deviations from grey on blue–yellow and red–cyan axes, whereas U and V are blue–luminance and red–luminance differences respectively.) The Y′IQ color space used in the analog NTSC television broadcasting system is related to it, although in a more complex way. The YDbDr color space used in the analog SECAM and PAL-N television broadcasting systems, are also related. As for etymology, Y, Y′, U, and V are not abbreviations. The use of the letter Y for luminance can be traced back to the choice of XYZ primaries. This lends itself naturally to the usage of the same letter in luma (Y′), which approximates a perceptually uniform correlate of luminance. Likewise, U and V were chosen to differentiate the U and V axes from those in other spaces, such as the x and y chromaticity space. See the equations below or compare the historical development of the math.}
+      \field{journaltitle}{Wikipedia}
+      \field{month}{10}
+      \field{note}{Page Version ID: 921160678}
+      \field{title}{{YUV}}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=YUV&oldid=921160678
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=YUV&oldid=921160678
+      \endverb
+    \endentry
+    \entry{sensorray_rgb--vs--yuv_2019}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Application Note: Color Spaces in Frame Grabbers.}
+      \field{title}{Color {Spaces} in {Frame} {Grabbers}: {RGB} vs. {YUV}}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.sensoray.com/support/appnotes/frame_grabber_capture_modes.htm
+      \endverb
+      \verb{url}
+      \verb http://www.sensoray.com/support/appnotes/frame_grabber_capture_modes.htm
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

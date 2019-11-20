@@ -1,0 +1,10 @@
+\section{Software}\label{sec:optimalSoftware}
+As with the hardware, the choice of software is going to have a significant impact on the final product.
+Unlike with the hardware, the software is where we get to do the bulk of the work for this project, and identifying the most optimal choice is therefore not as straight forward.
+The following section is one way of answering the question:
+
+The most optimal greedy-choice of software, in terms of delivering something that fulfills our requirements, would be to reuse the software found in existing autonomous vehicles, such as the ones produced by either Google or Tesla mentioned in \autoref{ch:introduction}.
+These solutions have already been tried and tested, and should be fairly deploy-able, given the necessary hardware.
+
+The next-most optimal choice of software is going to depend heavily on what hardware is chosen, as not all hardware supports the same software solutions.
+If the Jetson Nano from \autoref{ssec:optimalHardwareAVPlatform} was chosen, the obvious choice would be the accompanying \textit{NVIDIA JetPack SDK}, which gives officially supported access to several AI-oriented frameworks, such as \textit{TensorRT} (neural networks) and \textit{OpenCV} (image processing) \cite{JetPack}.

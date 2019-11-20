@@ -1,0 +1,197 @@
+\section{State of the Art}\label{sec:stateOfTheArt}
+This section covers state of the art information on the implementation, hardware, and methodology of AVs, in an attempt to gain a better understanding of where AV vehicles are at today and what the pros and cons are.
+
+
+\subsection{Hardware}\label{probana:state-of-the-art:hardware}
+AVs have a lot of functionalities that require input in some form to function properly.
+These input can be described as the vehicle's eyes, and if they were to malfunction, the vehicle would be blinded and unable to respond to the environment.
+The inputs are obtained through different sensors such as \textit{cameras} and \textit{LiDARs}.
+
+% Camera
+The camera is a sensor that collects light.
+This sensor is very popular and is therefore seen mounted on a lot of the AVs that are being used today.
+It gives a rich perspective of the environment, and the amount of data that the sensor captures is determined by the specifications of the camera.
+Two examples of specifications could be \textit{resolution} and \textit{field of view} (FOV).
+The resolution of the camera determines how much information can be collected within a specific area of a light sensor, and the FOV determines how much of the environment can be collected in one image.
+Based on these specifications, a camera suited for the AV can be selected.
+But not every AV needs the same camera.
+If there is a lack of other sensors on the AV, a camera with a high resolution and FOV is needed to capture as much of the environment as possible.
+If the camera is not able to capture the environment well enough and there is a lack of other sensors, there is a risk that the AV will overlook vital information.
+But if there are other sensors present, it might not be necessary with the best of quality pictures and a huge FOV.
+There are some drawbacks to the camera.
+It needs light to be able to get a good picture the AV can use as a valid input.
+Also, if the weather is foggy, it can interfere with the picture and again make it almost impossible for the AV to see anything.
+\cite{university_of_toronto_self-driving_vehicle}
+
+% LiDAR
+What if the visibility is very low or almost non existent?
+The AV will be blind if it is too foggy or there is no light to generate a picture for the camera.
+To solve this problem AVs could use LiDAR.
+The LiDAR functions a bit like RADAR, but, instead of using radio waves, it emits light.
+This makes the LiDAR unaffected by the environmental factors affecting the natural light, and can therefore be used during the night and in foggy weather.
+The LiDAR input is used to create a 3D scene of the environment around the AV.
+The quality of this scene depends on the number of beams and rotation rate of the LiDAR module.
+\cite{university_of_toronto_self-driving_vehicle}
+
+% Global Navigation Satellite System(GNSS)
+For an AV to be able to navigate, it needs some way of knowing where it is and where its destination is located.
+To get this information, a \textit{Global Navigation Satellite System} (GNSS) can be used.
+A GNSS is a combined system consisting of satellite systems from all over the world, such as the USA’s Global Positioning System (GPS).
+A receiver is then mounted on the AV.
+This receiver will then collect data on position and time from the satellites.
+\cite{what_is_gnss}
+
+% Inertial Measurement Units(IMU)
+To assist the GNSS an \textit{Inertial Measurement Unit} (IMU) is installed.
+This unit supplies the AV with information on angular rotation rate and acceleration.
+This, combined with the GNSS, should allow the AV to estimate the heading of the vehicle.
+\cite{charles_pao_imu, university_of_toronto_self-driving_vehicle}
+
+To collect and process all the data from various sensors, a computer, able to handle the presented amount of information, is needed.
+It is also the computer's responsibility to synchronize the modules used by the AV.
+If the data provided by the sensors is not timestamped, or synchronized with the rest of the system, it could provide the AV with misleading information.
+An example of where the system could provide misleading information is when two different sensors detects the same car but in different positions.
+If there is no way of telling which information is newer or older, the system will not be able to predict the heading of that vehicle.
+\cite{charles_pao_imu, university_of_toronto_self-driving_vehicle}
+
+
+\subsection{Methodology}\label{probana:state-of-the-art:methodology}
+In this subsection, the methods for localization, mapping, perception, and assessment will be described in regards to their implementation methods.
+
+\subsubsection{Localization and mapping}
+When creating a fully autonomous vehicle it is important to always know where the car is.
+This can be done with using methods such as \textit{Global Positioning System and Inertial Measurement Unit} (GPS-IMU fusion), \textit{Simultaneous Localization and Mapping} (SLAM), or an \textit{a priori map-based localization}.
+
+The GPS-IMU fusion is a method that uses a sensor-fusion approach which integrates gyroscope, velocity sensors, and GPS, where the goal is to calculate more precisely the position of the AV in urban areas.
+This approach uses GPS and an odometry system to calculate the AV's position \cite{zhang_sensor_2012}.
+This system has its shortcomings, such as with the odometry system, which can, over time, drift away from the AV's position due to calculation errors, and the GPS can sometimes suffer from lower accuracy, or even stop functioning all together, in dense urban areas, when entering a tunnel, or other similar circumstances where the signal is lost or there is interference.
+\cite{yurtsever_survey_2019}
+
+Another localization and mapping technique is SLAM.
+This method will localize the AV and simultaneously create an online map.
+The method does not require a priori information, and is common practice in indoor environments.
+A con for this method is that it requires a large amount of computations and has environmental challenges.
+This means that the algorithm is not as effective as using a pre-built map localization method.
+\cite{yurtsever_survey_2019}
+
+Lastly is the a priori map-based localization method which uses online readings such as landmark searching; i.e. taking landmarks and comparing them with the a priori map to localize the AV.
+A flaw with the landmark search is that it is prone to error when not enough landmarks are available at the location.
+Another way, besides landmark searching, is the point cloud matching.
+This method uses a multi-modal point-cloud based approach.
+This means that it creates a point-cloud-map using sensors, which it then compares to the a priori cloud-map, and then estimates where the position of the AV is.
+The a priori map-based localization method is time consuming and takes a lot of resources, since the maps need to be fully updated all the time.
+This method is computationally more expensive than landmark search.
+The last sub-method for priori map-based localization is the 2D to 3D matching, which is a fairly new method.
+This method uses a camera mounted to the Automatic Driving System (ADS), which will take 2D pictures and compare with synthetic 2D images from a 3D LiDAR map.
+This approach, however, increases the computational load of the localization.
+\cite{yurtsever_survey_2019}
+
+\subsubsection{Perception}
+As described in \autoref{ssec:tasksForAVs-Perception}, one of the most critical parts of an AV is the perception area.
+When an AV has implemented a good perception, it should be capable of seeing objects and travel on the road safely.
+All of the following information has been acquired from \cite{yurtsever_survey_2019}.
+
+Detection of objects is key for perception.
+For detecting objects, there are several possibilities for doing so.
+\textit{Image-based object-detection} is to identify the location and size of objects.
+In this method, the detection of traffic lights, signs to road crossings, moving vehicles, etc., will be detected and analyzed.
+All state of the art practices for image object detection methods all rely on a deep convolutional neural network (DCNN).
+An example of this is \textit{You Only Look Once}, which is a real time object detection system \cite{objectDetection_yolo:_02-10}.
+There is a distinction between the two methods in image-based object detection, as described in \cite{yurtsever_survey_2019}. These two methods are:
+
+\begin{itemize}
+    \item \textit{Single stage detection frameworks}, which uses a single network to detect objects and make class predictions simultaneously.
+    \item \textit{Region proposal detection frameworks}, which uses two distinct steps, where general regions of interest are first identified, then categorized by separate classifier networks.
+\end{itemize}
+
+The difference between these two distinct methods is that the region proposal detection frameworks are putting out the better benchmark however at a higher computational cost.
+This method, however, is harder to implement, train, and fine-tune.
+The single stage detection frameworks use low memory and have a fast inference time.
+
+%segmentation
+Another method in perception is \textit{semantic segmentation}.
+Semantic segmentation is an algorithm, which classify each pixel in a picture with a label.
+The reason for doing this is because of some objects, are hard to properly define using bounding boxes \footnote{ A bounding box is a rectangular box, which is used as a description to where an object is positioned inside a frame with x and y coordinates. \cite{d2l_12.3._10.10}}.
+Examples of these objects are roads and buildings.
+
+\textit{Instance segmentation} is the classification of each pixel in a picture, but will also differentiate between objects based on their trajectories and behaviors. When using \textit{Instance segmentation} the classification would be able to see overlapping objects and bound box them \cite{mittal_instance_2019}. This means that the bound boxes would overlap each other, depending on the variation of overlapping from the object.
+
+%3D object detection
+When creating an AV it is important that the vehicle has depth perception, in order for it to see objects further ahead and avoid a possible collision.
+Depth perception can be done with a single mounted front camera, but these algorithms require a big amount of processing power.
+Therefore, in most situations, it is easier and better to use stereo- or multi-view systems.
+An example of this could be the 3D LiDAR, which is not as dependable on lighting conditions as cameras.
+
+%object tracking
+Another thing which is important for AVs is the tracking of dynamic objects, such as pedestrians and cyclists.
+It is important to know their trajectory and the speed they are going.
+The reason for this tracking-need is to estimate their future trajectory and speed, to avoid possible crashes, or maybe to overtake a car on the highway.
+To estimate this, a sensor fusion is often used for tracking.
+The most common object trackers use a simple data set association technique, which then uses traditional filtering methods.
+When using image-based methods for object tracking, there needs to be an appearance model which could use color histograms, gradients, and other features.
+
+%Road and lane detection
+One crucial point that AVs have to take into consideration is road and lane detection.
+This is usually divided into sub tasks, which each heightens the level of automation in vehicles.
+For a vehicle to be fully autonomous, it needs a complete understanding of the road structure, and of the detection of lanes at a long distance.
+The currently used methods for road- and lane detection rely on external data preprocessing.
+An important step in the preprocessing is distinguishing between static road scenery and dynamic objects, which allows for extraction of road- and lane detection to be done by the correct data.
+Some of the methods use a camera for the detection.
+When using a camera, it is necessary to normalize the colors with the help of color correction.
+Other methods, such as LiDAR, can use several different filters to reduce cluttering in data, such as map-based filtering.
+Some systems have already been created to assist with lane keeping and are well integrated.
+Most systems, however, still use assumptions and have limitations.
+Systems which can handle complex road systems, are not yet developed.
+But systems are slowly being made using standardized road maps, and machine learning-based road and lane classification methods.
+
+\subsubsection{Assessment}
+
+%Risk and uncertainty assessment
+Assessment is a crucial part of AVs.
+The reason for this is that a good assessment of possible dangerous scenarios can increase the overall safety of AVs.
+A method for risk- and uncertainty assessment is to use Bayesian methods, which will quantify, and measure, uncertainties of deep neural networks.
+Another method for risk assessment is the use of sensory input, in a risk framework, which uses hidden Markov models to detect unsafe lane change events.
+Lastly, there is a method that accumulates the overall risk of a driving scene using a monocular camera, which can be implemented through an open source from \cite{yurtsever_driving_2019}.
+\cite{yurtsever_survey_2019}
+
+%Surrounding driving behavior assessment
+Another assessment, which the ADS should consider, is the behavior of drivers.
+This assessment does not yet have common practice, but different methods using a hidden Markov model have been used with some success.
+An example using the mentioned method is the detection of dangerous cuts.
+The main challenge in this area is the short observation windows, when analyzing human behavior, since most of the time the AV's system only have seconds to observe the vehicle, and therefore complex behavior models cannot be implemented as it requires longer observations.
+\cite{yurtsever_survey_2019}
+
+
+%Driving style recognition
+AVs need to be able to predict the driving style of the other drivers around it.
+This is a necessity because not all drivers behave in the same way.
+To do this, there are multiple categories an AV can put each driver into.
+This could, as an example, be based on how aggressive they behave or based on their skill level.
+If a driver is categorized as a skilled and aware driver, the chances of him yielding in a lane is relatively high.
+\cite{yurtsever_survey_2019}
+
+Rules are needed to determine a drivers behavior.
+This could be based on how much the car moves around in its lane, or how much it jerks when performing a maneuver.
+\cite{yurtsever_survey_2019}
+
+To this day, a successfully implementation of driving style recognition has not been reported yet.
+But studies has shown that such a system is possible.
+\cite{yurtsever_survey_2019}
+
+%Localization and mapping
+ %   GPS_IMU fusion
+  %  Simultaneous localization and mapping
+   % Priori map based localization
+    %landmark search
+    %point cloud mapping
+
+%Perception
+ %   Detection
+  %      image based Object Detection
+   % Object tracking
+    %Road and lane Detection
+
+%Assessment
+ %   Risk and uncertainty assessment
+  %  Surrounding driver behavior
+   % Driving style recognition

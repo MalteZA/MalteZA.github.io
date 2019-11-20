@@ -1,0 +1,79 @@
+\changetocdepth {1}
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\contentsline {chapter}{List of Figures}{3}{section*.3}
+\contentsline {chapter}{List of Tables}{4}{section*.4}
+\contentsline {chapter}{Contents}{5}{section*.5}
+\contentsline {part}{\partnumberline {I}Introduction}{8}{part.1}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{9}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}Problem Analysis}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}Problems in traffic}{10}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Traffic congestion}{10}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Traffic accidents}{11}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}What can be done?}{11}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Self-driving cars}{12}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}The six levels of self-driving cars}{13}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}Implementation Issues With Self Driving Cars}{13}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Infrastructure issues}{14}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Ethical and safety issues}{14}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Policy Issues}{15}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Technological issues}{15}{subsection.2.3.4}
+\contentsline {section}{\numberline {2.4}Tasks for AVs}{16}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Perception}{17}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Planning}{17}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Control}{17}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}State of the Art}{17}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Hardware}{18}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Methodology}{19}{subsection.2.5.2}
+\contentsline {subsubsection}{Localization and mapping}{19}{section*.10}
+\contentsline {subsubsection}{Perception}{20}{section*.11}
+\contentsline {subsubsection}{Assessment}{21}{section*.12}
+\contentsline {section}{\numberline {2.6}Problem definition}{22}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Problem requirements}{23}{subsection.2.6.1}
+\contentsline {part}{\partnumberline {II}Technology analysis}{24}{part.2}
+\contentsline {chapter}{\chapternumberline {3}Optimal Solution}{25}{chapter.3}
+\contentsline {section}{\numberline {3.1}Hardware}{25}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Propulsion Platform}{25}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}AV System Platform}{26}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}World Input}{26}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Software}{27}{section.3.2}
+\contentsline {section}{\numberline {3.3}Essential Features}{27}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Hardware Features}{27}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Software Features}{27}{subsection.3.3.2}
+\contentsline {chapter}{\chapternumberline {4}Actual solution}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Hardware}{29}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Platforms}{29}{subsection.4.1.1}
+\contentsline {subsubsection}{LEGO MINDSTORMS EV3 (ID: 95646)}{30}{section*.17}
+\contentsline {subsubsection}{LEGO MINDSTORMS NXT 2.0 (ID: 53788)}{30}{section*.19}
+\contentsline {subsubsection}{Raspberry Pi}{31}{section*.21}
+\contentsline {subsubsection}{Arduino}{32}{section*.23}
+\contentsline {subsection}{\numberline {4.1.2}Motors}{32}{subsection.4.1.2}
+\contentsline {subsubsection}{Large EV3 Servomotor (ID: 95658)}{33}{section*.27}
+\contentsline {subsubsection}{Medium EV3 Servomotor (ID: 99455)}{33}{section*.29}
+\contentsline {subsubsection}{NXT Servomotor (ID: 53787)}{34}{section*.31}
+\contentsline {subsubsection}{Electric Technic Mini-Motor 9v (ID: 71427)}{34}{section*.33}
+\contentsline {subsubsection}{Electric Technic Motor 9v (ID: 2838)}{35}{section*.35}
+\contentsline {subsection}{\numberline {4.1.3}Cameras}{35}{subsection.4.1.3}
+\contentsline {subsubsection}{Logitech C910}{35}{section*.37}
+\contentsline {subsection}{\numberline {4.1.4}Choice of hardware}{36}{subsection.4.1.4}
+\contentsline {subsubsection}{Platform}{36}{section*.39}
+\contentsline {subsubsection}{Motors}{36}{section*.40}
+\contentsline {subsubsection}{Camera}{37}{section*.41}
+\contentsline {subsection}{\numberline {4.1.5}Hardware test}{37}{subsection.4.1.5}
+\contentsline {subsubsection}{Precision Test}{37}{section*.42}
+\contentsline {subsubsection}{Speed Test}{38}{section*.45}
+\contentsline {part}{\partnumberline {III}Design}{39}{part.3}
+\contentsline {chapter}{\chapternumberline {5}Design}{41}{chapter.5}
+\contentsline {section}{\numberline {5.1}Autonomus Driving System Architecture}{41}{section.5.1}
+\contentsline {section}{\numberline {5.2}Vehicle Design}{43}{section.5.2}
+\contentsline {section}{\numberline {5.3}Network Architecture}{44}{section.5.3}
+\contentsline {section}{\numberline {5.4}Proposed Artificial Neural Network Archicteture}{46}{section.5.4}
+\contentsline {part}{\partnumberline {IV}Implementation}{49}{part.4}
+\contentsline {chapter}{\chapternumberline {6}Implementation}{50}{chapter.6}
+\contentsline {section}{\numberline {6.1}Environment}{50}{section.6.1}
+\contentsline {section}{\numberline {6.2}Data}{51}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Dataset}{51}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Augmentation}{51}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Image Preprocessing}{51}{subsection.6.2.3}
+\contentsline {chapter}{Bibliography}{52}{section*.61}
+\contentsline {part}{\partnumberline {V} - Appendix -}{62}{part.5}

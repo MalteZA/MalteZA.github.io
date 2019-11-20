@@ -1,0 +1,46 @@
+\section{Problem definition}\label{sec:problem-statement}
+In \autoref{probana:problemsTraffic} it's found that there were problems in traffic.
+These problems were, to some degree, caused by humans and their behavior in traffic.
+Other problems were related to the infrastructure of the roads.
+A level 5 AV could remove the need for humans in traffic, meaning the human influence in traffic could be eliminated.
+This could significantly impact the traffic problems related to humans.
+Additionally, it could also influence other problems related to traffic congestion.
+For an AV system to be successful, several problems need to be solved.
+The general problems an AV system faces are described in \autoref{sec:probAnal-tasksAV}, while more specific problems are described in \autoref{sec:implementationIssuesAV} and \autoref{sec:stateOfTheArt}.
+Due to the size of the subject, it has been decided to focus on a smaller subset of the problems faced by AVs.
+
+
+%RESOLVED\todo{Nævn at vi ikke vil solve de mere specifikke problemer ( i state of the art og implementation issues) men en overall løsning af de generelle problemer såsom lane identification etc...}
+
+Therefore the following problem statement has been developed.
+
+\begin{colbox}{D3D3D3}{Problem Statement:}
+    {How can we design and implement a prototype of an AV, that can identify and drive within its lane?}
+\end{colbox}
+
+\subsection{Problem requirements}\label{ssec:problemRequirements}
+%formål med projektet ( dvs. hvad er meningen med projektet, og hvad ønsker vi at ende ud med. Hvad vi prøver at forsøge med projektet og vil ende ud med. )
+The intent of this subsection is to form requirements for the project which, when fulfilled, will satisfy the purpose of the project and the problem statement.
+
+The purpose of this project is to design and implement an embedded system.
+This is reflected in this project by creating an autonomous driving system which will be embedded in a lego vehicle.
+
+%(Heri skal der være hvad formålet med underafsnittet er.)
+In order to determine whether the purpose and problem statement of the project has been reached, these requirements have been found:
+\begin{itemize}
+    \item[$\square$] A working lego vehicle similar to a car
+    \item[$\square$] An autonomous driving system which is capable of driving and following its lane
+\end{itemize}
+
+%argumentation for requirements ( this means that we elaborate on the requirements found, (problemstilling vi fandt frem til)
+%a working vehicle similar to cars
+As the vehicle is a model of an AV, it is important that the it operates in a similar manner to a car.
+For the purposes of the vehicle, this includes having four wheels, steering, and control of speed/acceleration.
+
+%The vehicle should be capable of driving and following its lane
+The goal of the project is to create a working prototype of an AV system that can drive on its own, which implies a necessity for the vehicle to be capable of following a road.
+The road can either be straight or turn to the left or right, but does not include more advanced things such as intersections or roundabouts.
+The lane will be represented by two same colored lines with the color being in contrast to the ground.
+The colors do not have to be white and black/gray, as they typically are on regular paved roads.
+
+When these requirements have been achieved, the problem statement is considered resolved.

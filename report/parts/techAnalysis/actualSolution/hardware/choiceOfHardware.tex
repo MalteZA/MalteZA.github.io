@@ -1,0 +1,30 @@
+\subsection{Choice of hardware}\label{ssec:choiceOfHardware}
+Based on the requirements and analysis in the preceding sections, as well as having the essential features described in \autoref{sec:essentialFeatures} in mind, the hardware components are selected.
+
+\subsubsection{Platform}
+Based on the examination of the available platforms, it can be concluded that both the LEGO MINDSTORMS EV3 and the LEGO MINDSTORMS NXT 2.0 could meet the requirement of controlling motors by default, of which multiple options for motors was available.
+Both platforms are compatible with constructions made of LEGO, which, by design, is pre-built and ready for final assembly by us, which was considered an essential feature for an optimal solution.
+The EV3 could do what the NXT 2.0 could do, and had more features as well as being more powerful, and is therefore selected as the platform.
+However, even though the EV3 with its 300MHz has more computing power than the NXT 2.0, it is not considered undoubtedly powerful enough for this project, and therefore the even more powerful Raspberry Pi 4B with 4GB of RAM was selected too.
+The EV3 may turn out to be powerful enough, but at this point is not possible to guarantee whether or not it is, therefore it is chosen to go with the Raspberry Pi 4B, which we acknowledge might be an overkill.
+If it is later determined that the EV3 has enough processing power, the Raspberry Pi 4B can be deselected.
+Both the Raspberry Pi and the EV3 (and the NXT 2.0, for that matter) are complete systems in themselves, which was also considered an essential feature.
+
+With this setup, consisting of a LEGO MINDSTORMS EV3 and a Raspberry Pi 4B, all the requirements listed in \autoref{ssec:platforms} are achieved.
+
+\subsubsection{Motors}
+Since one of the chosen platforms is the LEGO MINDSTORMS EV3, all the LEGO motors would work with this.
+All motors also take advantage of the feature of being pre-built, as previously mentioned.
+
+Firstly, for the motor to drive the autonomous car, one of the requirements was that it needed to be powerful.
+As it could be concluded in \autoref{ssec:motors}, the most powerful motors was the EV3 large servomotor and the NXT servomotor.
+Both servomotors can also be precisely controlled, which was another priority.
+Since both the of these motors are almost identical in terms of specifications, either one of those would work, therefore the EV3 large servomotor is selected as the drive motor, one for each of the back wheels.
+
+Secondly, for the motor that steers the autonomous car a combination of accuracy and speed was prioritized.
+Both the EV3 large servomotor, EV3 medium servomotor and the NXT servomotor allowed for precise control, however where the EV3 large servomotor and NXT servomotor are powerful, they are not as fast as the EV3 medium motor.
+The EV3 medium motor is therefore selected as the steering motor.
+
+\subsubsection{Camera}
+There was only one immediate choice of camera, however it still had to fulfill the needs listed in \autoref{ssec:cameras}.
+Based on the examination, it can be concluded that the camera meets the requirements, and is even from the same line-up of products as the camera mentioned as the optimal world input in \autoref{ssec:optimalHardwareWorldInput}, and it is therefore chosen.

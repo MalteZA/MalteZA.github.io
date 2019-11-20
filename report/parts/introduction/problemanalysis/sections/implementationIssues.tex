@@ -1,0 +1,70 @@
+\section{Implementation Issues With Self Driving Cars} \label{sec:implementationIssuesAV}
+This section will explore the reasons why self-driving cars are not yet implemented fully in commercially available cars.
+While Google has, in certain areas like California, employed a driverless taxi service with the Waymo project, which is around a level 4 or 5 on the autonomy scale.
+There are still several hurdles to overcome before this will be widespread, especially for cars that are available for private purchase \cite{noauthor_waymo_driverless}.
+The analysis in this section will explore these issues and focus on issues within the EU and US.
+In Asia, there are a lot of additional issues due to irregular traffic behavior by humans, and in some places, very poor infrastructure and environment for self-driving cars \cite{daily_self-driving_2017}.
+
+\subsection{Infrastructure issues}\label{ssec:problemAnalysis-infrastructureIssues}
+Road infrastructure and maintenance are important elements of a successful widespread introduction of self-driving cars.
+They require that the different types of road markings, like lanes, edges, and speed limit signs, are highly visible and well maintained so that they are not faded and appear clear and visible for the self driving cars' sensors to detect and interpret.
+Furthermore, global standardization of road markings would also help the self-driving cars.
+Other issues pertain to temporary road markings related to construction work and accidents, that are often poorly marked.
+Furthermore, the precise and real-time communication of traffic incidents to the self-driving car is also helpful.
+These are some of the issues that make it harder for self-driving cars to make decisions and navigate correctly in a highly changing and volatile environment, there is a plateau of other interesting infrastructural issues which are further elaborated on in \cite{liu_infrastructure-review_2019}.
+\cite{liu_infrastructure-review_2019}
+
+\subsection{Ethical and safety issues}
+Ethical issues are also an important element regarding self-driving cars.
+One of the issues regarding this is the moral dilemmas when facing an inevitable car crash.
+This does not have as big an influence when it comes to car crashes involving a human driver, since the person driving the car, mostly react per reflexes and does not have time to thoroughly analyze the situation.
+With self-driving cars questions such as "how to avoid a crash" comes more into play.
+How should the car react if saving the driver means driving into other people and potentially killing them? This obviously poses a big moral dilemma for designers of self-driving cars on how the self-driving car should react when facing a car crash.
+This is regarding, whether an AV should use a self-preserving or self-sacrificing decision of the car crash.
+Or maybe even use a utilitarian way, where the car seeks to make decisions based on maximizing utility.
+A problem with this could be the introduction of self-driving cars, with different ethical preferences.
+An example of this is described in \cite{faulhaber_human_2019}, where a self driving car has strong self-preservation ethical settings.
+This car would choose its passengers possibly over a school bus full of children.
+\cite{faulhaber_human_2019}
+
+Along with ethical issues, there are also safety issues.
+One of these safety issues is the interlacement of self-driving cars and conventional cars and that the predictability of movement is different for people contra machines.
+The reason for this is that people tend to better anticipate other peoples behavior than machines behavior even though self-driving cars should be more predictable than people, since they would always follow the rules, whereas people might not follow the rules, but more so their common sense.
+This could lead to misunderstandings in traffic which in turn could lead to traffic accidents.
+Another example of the difficulties for machines to predict human behavior in the traffic is that there can be unwritten road rules that involve tacit knowledge which can be hard for computers to identify or anticipate.
+\cite{surden_technological_2016}
+
+Another safety issue regarding self-driving cars is the possibility of hacking the self-driving car's computer.
+By doing this, the potential hacker could get access to the car's sensors, cameras, etc., and disrupt its view of the world, which could lead to crashes.
+This could especially be damaging if they hacked a network of self-driving cars, as the Connected Autonomous Vehicles (CAVs) mentioned in \autoref{ssec:problemAnalysis-techIssues}.
+\cite{fagnant_preparing_2015}
+
+Both ethical and safety issues are in large regulated and therefore up to policymakers, and regulation has been one of the big hurdles for self-driving cars and continues to be.
+In \autoref{ssec:problemAnalysis-policyIssues}, the regulatory landscape will briefly be elaborated on.
+
+\subsection{Policy Issues}\label{ssec:problemAnalysis-policyIssues}
+As a consequence of the ethical and safety issues, it is also paramount to the widespread introduction of self-driving cars, that proper legislation is provided.
+This remains one of the large roadblocks for further expansion of self-driving cars.
+This is in large due to lobbying against self-driving cars, as well as ethical and safety concerns.
+In the USA, 20 states have enacted their own legislation related to self-driving cars and in EU several countries, e.g. UK, Germany, Spain, France, and Italy, have introduced related laws.
+Except for Spain, these, however, are not aimed at level 5 autonomy with no driver behind the seat.
+The many different regulations from different countries, or states in the US, also provide issues, because there is no single standard requirement to satisfy for the manufacturers.
+\cite{walker_av-regulation-us_2019, autovista_av-regulation-eu_2019}
+
+\subsection{Technological issues}\label{ssec:problemAnalysis-techIssues}
+One of the main technological issues for self-driving cars is to make them safe.
+The car needs to be better than humans to perceive its environment and better and faster at decision making in the traffic.
+The decision making is already faster than human reaction time and how it decides is mostly an issue of politics.
+Amnon Shashua, CEO of the Intel company called Mobileye, which delivers technology solutions for self-driving cars, mentions that there are three orders of magnitude gap between when self-driving cars incorrectly perceive something in the environment and the fatality rate of human drivers.
+He suggests solving this with redundancies in the cars' perception system and provide maps of the environment that are highly detailed.
+\cite{hao_three-tech-issues_2019}
+
+One example of situations, where the self-driving cars' perception system struggles is in harsh weather conditions like heavy rain and snow, where the cars Light Detection and Ranging (LiDAR) system, as well as the cameras, get inputs that are heavily distorted, making it harder for the car to perceive its environment.
+LiDAR can also be challenged when there is a lot of radio interference in the surrounding area, e.g. with more self-driving cars nearby.
+\cite{aberdeen_tech-issues_2018}
+
+As mentioned in \autoref{ssec:problemAnalysis-infrastructureIssues}, communication is important as a technological aid for self-driving cars.
+An example of this can be autonomous vehicles that communicate with each other in a communication network, these are often referred to as CAVs.
+This allows for external computation, as well as safer and more efficient solutions, where information can be shared externally through the internet as well as between cars.
+This is still an area that is not fully developed.
+\cite{martinez-diaz_av-prac-theory-issues_2018}
