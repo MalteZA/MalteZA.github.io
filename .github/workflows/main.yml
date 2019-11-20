@@ -16,5 +16,5 @@ jobs:
         with:
           python-version: '3.x'
           architecture: 'x64'
-      - run: python .github/workflows/texlinter.py ../../MalteZA.github.io/report/
+      - run: python .github/workflows/texlinter.py ../../report/
         
