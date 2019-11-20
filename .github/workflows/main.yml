@@ -1,0 +1,20 @@
+name: Tex-Linter
+  
+on:
+  push:
+    branches: 
+      - 'report/*'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/setup-python@v1.1.1
+      - uses: actions/checkout@v1
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+      - run: python texlinter.py MalteZA.github.io/report/
+        
